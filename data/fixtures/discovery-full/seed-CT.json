@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37190000002",
+      "name": ".45 ACP CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37260000002",
+      "name": "4.6 x 30mm CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1889,
+        "7zf": 12.02,
+        "7df": -7.76,
+        "7top": 2116,
+        "7down": 1753
+      }
+    },
+    {
+      "id": "37200000002",
+      "name": "9*19mm CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "9x19mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/9x19.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13040000224",
+      "name": "CT增强型后托",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13040000224.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 48000,
+      "dept_value": null,
+      "value": {
+        "new": 50100,
+        "7zf": 42.91,
+        "7df": -3.73,
+        "7top": 71600,
+        "7down": 48300
+      }
+    }
+  ]
+}

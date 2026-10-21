@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37280300001",
+      "name": ".300BLK",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 438,
+        "7zf": 34.25,
+        "7df": -8.68,
+        "7top": 588,
+        "7down": 403
+      }
+    },
+    {
+      "id": "37280300002",
+      "name": ".300BLK V SUB",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37280400001",
+      "name": ".300BLK",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1588,
+        "7zf": 16.75,
+        "7df": -7.88,
+        "7top": 1854,
+        "7down": 1472
+      }
+    },
+    {
+      "id": "37280400002",
+      "name": ".300BLK BCP SUB",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37280500001",
+      "name": ".300BLK",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4877,
+        "7zf": 16.05,
+        "7df": -13.66,
+        "7top": 5660,
+        "7down": 4291
+      }
+    }
+  ]
+}

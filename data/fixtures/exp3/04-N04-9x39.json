@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37140300001",
+      "name": "9x39mm SP5",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "9x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/9x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 206,
+        "7zf": 74.27,
+        "7df": -1.98,
+        "7top": 359,
+        "7down": 202
+      }
+    },
+    {
+      "id": "37140400001",
+      "name": "9x39mm SP6",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "9x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/9x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1509,
+        "7zf": 29.16,
+        "7df": -4.65,
+        "7top": 1949,
+        "7down": 1442
+      }
+    },
+    {
+      "id": "37140500001",
+      "name": "9x39mm BP",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "9x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/9x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4712,
+        "7zf": 6.9,
+        "7df": -12.27,
+        "7top": 5037,
+        "7down": 4197
+      }
+    }
+  ]
+}

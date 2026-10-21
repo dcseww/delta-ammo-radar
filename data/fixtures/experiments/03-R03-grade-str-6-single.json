@@ -1,0 +1,4 @@
+{
+  "code": 500,
+  "msg": "array_map(): Argument #2 ($array) must be of type array, string given (controller/Core/Items.php:104)"
+}

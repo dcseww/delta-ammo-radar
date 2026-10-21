@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>三角洲行动 · 子弹物价监控</title>
+<link rel="icon" href="assets/app.ico" sizes="any">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ── 顶栏 ──────────────────────────────────────────────────────────── -->
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">◉</span>
+    <div>
+      <h1>三角洲行动 · 子弹物价监控</h1>
+      <p class="sub">单机自用 · 只做监控与告警 · 不触碰游戏客户端</p>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <div class="fresh" id="fresh">
+      <span class="dot" id="freshDot"></span>
+      <span id="freshText">正在加载…</span>
+    </div>
+    <button class="btn" id="btnRefresh" title="手动触发一次采集">刷新数据</button>
+    <button class="btn ghost" id="btnNotify" title="授权浏览器通知">开启通知</button>
+  </div>
+</header>
+
+<!-- ── 新鲜度横幅 ────────────────────────────────────────────────────── -->
+<div class="banner" id="banner" hidden></div>
+
+<!-- ── 视图切换 ──────────────────────────────────────────────────────── -->
+<nav class="tabs">
+  <button class="tab" data-view="market">行情总览</button>
+  <button class="tab" data-view="watch">自选</button>
+  <button class="tab" data-view="calc">交易计算器</button>
+  <button class="tab" data-view="alerts">告警</button>
+  <button class="tab" data-view="health">数据健康</button>
+</nav>
+
+<main>
+  <!-- ── KPI ────────────────────────────────────────────────────────── -->
+  <section class="kpis" id="kpis"></section>
+
+  <!-- ── 行情总览 ───────────────────────────────────────────────────── -->
+  <section class="view" id="view-market">
+    <div class="panel">
+      <div class="panel-head">
+        <h2>筛选</h2>
+        <span class="hint" id="packHint"></span>
+      </div>
+      <div class="filters">
+        <input type="search" id="q" placeholder="搜索名称或口径…" autocomplete="off">
+        <div class="chips" id="tierChips"></div>
+        <select id="caliber"><option value="">全部口径</option></select>
+        <select id="sort">
+          <option value="opportunity">按机会分</option>
+          <option value="percentile">按分位（低→高）</option>
+          <option value="today_change">按今日涨跌</option>
+          <option value="change_7d">按 7 日涨跌</option>
+          <option value="price">按价格</option>
+          <option value="volatility">按波动率</option>
+          <option value="name">按名称</option>
+        </select>
+        <select id="order">
+          <option value="desc">降序</option>
+          <option value="asc">升序</option>
+        </select>
+        <label class="check"><input type="checkbox" id="onlyTradeable" checked> 只看可交易</label>
+      </div>
+    </div>
+
+    <div class="cols">
+      <div class="panel grow">
+        <div class="panel-head">
+          <h2>价格总览</h2>
+          <span class="hint" id="tableCount"></span>
+        </div>
+        <div class="table-wrap">
+          <table id="table">
+            <thead>
+              <tr>
+                <th class="star-col"></th>
+                <th>名称</th>
+                <th>口径</th>
+                <th>品质</th>
+                <th class="num">当前价</th>
+                <th class="num">今日</th>
+                <th class="num">7 日</th>
+                <th class="num">7 日区间</th>
+                <th class="num" title="当前价在过去 7 天中的位置">分位</th>
+                <th class="num" title="启发式排序分，0~100；不是收益预测">机会分</th>
+                <th class="act-col"></th>
+              </tr>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel side">
+        <div class="panel-head">
+          <h2>排行榜</h2>
+        </div>
+        <div class="chips" id="rankChips"></div>
+        <div id="rankList" class="rank-list"></div>
+        <p class="rank-note" id="rankNote"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 自选 ───────────────────────────────────────────────────────── -->
+  <section class="view" id="view-watch" hidden>
+    <div class="panel">
+      <div class="panel-head"><h2>我的自选</h2><span class="hint" id="watchCount"></span></div>
+      <div id="watchBody"></div>
+    </div>
+  </section>
+
+  <!-- ── 交易计算器 ───────────────────────────────────────────────────── -->
+  <section class="view" id="view-calc" hidden>
+    <div class="panel">
+      <div class="panel-head">
+        <h2>利润计算</h2>
+        <span class="hint">卖出到手 = 挂单价 × 到手系数（当前市场约 0.87，可调整）</span>
+      </div>
+      <div class="form">
+        <label>子弹
+          <select id="cAmmo"><option value="">— 选择子弹 —</option></select>
+        </label>
+        <label>到手系数
+          <input type="number" id="cRate" step="0.01" min="0.01" max="1" value="0.87">
+        </label>
+        <label>买入价（单发）
+          <input type="number" id="cBuy" step="any" min="0" placeholder="你买入时的价格">
+        </label>
+        <label>卖出价（单发·挂单价）
+          <input type="number" id="cSell" step="any" min="0" placeholder="你打算挂出的价格">
+        </label>
+      </div>
+      <p class="form-hint" id="cAmmoInfo"></p>
+      <div class="metrics" id="cProfitOut"></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <h2>保本计算</h2>
+        <span class="hint">不亏钱的两个边界：卖价至少多少 / 买价至多多少</span>
+      </div>
+      <div class="form">
+        <label>已知买入价 → 求最低保本卖出价
+          <input type="number" id="cBeBuy" step="any" min="0" placeholder="你的买入价">
+        </label>
+        <label>已知卖出价 → 求最高可买入价
+          <input type="number" id="cBeSell" step="any" min="0" placeholder="你的卖出挂单价">
+        </label>
+      </div>
+      <div class="metrics" id="cBeOut"></div>
+    </div>
+  </section>
+
+  <!-- ── 告警 ───────────────────────────────────────────────────────── -->
+  <section class="view" id="view-alerts" hidden>
+    <div class="cols">
+      <div class="panel grow">
+        <div class="panel-head"><h2>告警规则</h2></div>
+        <div id="ruleBody"></div>
+        <div class="panel-head" style="margin-top:8px"><h2>新建规则</h2></div>
+        <form id="ruleForm" class="form">
+          <label>对象
+            <select id="rAmmo"><option value="">全部可交易物品</option></select>
+          </label>
+          <label>类型
+            <select id="rType">
+              <option value="price_below">价格 ≤ 阈值（抄底）</option>
+              <option value="price_above">价格 ≥ 阈值</option>
+              <option value="pct_up">涨幅 ≥ 阈值%</option>
+              <option value="pct_down">跌幅 ≥ 阈值%</option>
+              <option value="percentile_below">7 日分位 ≤ 阈值</option>
+              <option value="vol_spike">价格异动 |z| ≥ 阈值</option>
+            </select>
+          </label>
+          <label>阈值 <input type="number" id="rThreshold" step="any" value="100" required></label>
+          <label>冷却（分钟） <input type="number" id="rCooldown" value="30" min="0"></label>
+          <label>持续确认（分钟） <input type="number" id="rConfirm" value="0" min="0"></label>
+          <label>静默时段 <input type="text" id="rQuiet" value="23:30-07:00" placeholder="HH:MM-HH:MM"></label>
+          <p class="form-hint" id="ruleHint"></p>
+          <button class="btn primary" type="submit">创建规则</button>
+        </form>
+      </div>
+      <div class="panel side">
+        <div class="panel-head"><h2>触发历史</h2><span class="hint" id="logCount"></span></div>
+        <div id="logBody" class="log-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 数据健康 ───────────────────────────────────────────────────── -->
+  <section class="view" id="view-health" hidden>
+    <div class="panel">
+      <div class="panel-head"><h2>运行状态</h2><span class="hint" id="healthTime"></span></div>
+      <div id="healthBody"></div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h2>采集结果历史</h2></div>
+      <ul class="plain" id="healthHistory"></ul>
+    </div>
+  </section>
+</main>
+
+<!-- ── 详情抽屉 ──────────────────────────────────────────────────────── -->
+<div class="drawer-mask" id="mask" hidden></div>
+<aside class="drawer" id="drawer" hidden>
+  <div class="drawer-head">
+    <div>
+      <h2 id="dName">—</h2>
+      <p class="sub" id="dMeta"></p>
+    </div>
+    <button class="btn ghost" id="dClose">关闭</button>
+  </div>
+  <div class="drawer-body">
+    <div class="chips" id="dRanges"></div>
+    <div class="chart-host" id="dChart"></div>
+    <div class="metrics" id="dMetrics"></div>
+    <p class="rank-note" id="dNote"></p>
+  </div>
+</aside>
+
+<footer>
+  <span id="footLeft"></span>
+  <span class="foot-right">
+    数据来源：公开只读接口（DerGame）· 本项目仅个人自用，不转售数据 ·
+    不实现自动下单 / 抢购 / 内存读取
+  </span>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

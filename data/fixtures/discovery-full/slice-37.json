@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37210000001",
+      "name": "5.7x28mm R37.F",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.7x28mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.7x28.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 504,
+        "7zf": 16.87,
+        "7df": -23.83,
+        "7top": 589,
+        "7down": 407
+      }
+    },
+    {
+      "id": "13120000345",
+      "name": "45发 K437扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000345.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 48400,
+      "dept_value": null,
+      "value": {
+        "new": 49500,
+        "7zf": 3.84,
+        "7df": -7.61,
+        "7top": 51400,
+        "7down": 46000
+      }
+    },
+    {
+      "id": "13120000348",
+      "name": "K437 60发弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000348.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 22400,
+      "dept_value": null,
+      "value": {
+        "new": 23000,
+        "7zf": 7.83,
+        "7df": -18.56,
+        "7top": 24800,
+        "7down": 19400
+      }
+    },
+    {
+      "id": "13020000541",
+      "name": "K437断刃短枪管组合",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000541.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 48800,
+      "dept_value": null,
+      "value": {
+        "new": 51600,
+        "7zf": 0.16,
+        "7df": -81.69,
+        "7top": 51683,
+        "7down": 28400
+      }
+    },
+    {
+      "id": "13020000543",
+      "name": "K437长矛手长枪管组合",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000543.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 271500,
+      "dept_value": null,
+      "value": {
+        "new": 284500,
+        "7zf": 31.6,
+        "7df": -4.1,
+        "7top": 374400,
+        "7down": 273300
+      }
+    },
+    {
+      "id": "13020000546",
+      "name": "K437特攻一体消音枪管",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000546.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 78100,
+      "dept_value": null,
+      "value": {
+        "new": 70900,
+        "7zf": 44.99,
+        "7df": -42.94,
+        "7top": 102800,
+        "7down": 49602
+      }
+    },
+    {
+      "id": "18010000040",
+      "name": "K437突击步枪",
+      "grade": "0",
+      "primary": "枪械",
+      "second": "步枪",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/18010000040.png",
+      "length": "5",
+      "width": "2",
+      "combat_value": 145300,
+      "dept_value": null,
+      "value": {
+        "new": 133500,
+        "7zf": 16.04,
+        "7df": -8.68,
+        "7top": 154909,
+        "7down": 122839
+      }
+    }
+  ]
+}

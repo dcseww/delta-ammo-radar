@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37250000001",
+      "name": "12 Gauge 8.5毫米鹿弹",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 349,
+        "7zf": 9.17,
+        "7df": -20.76,
+        "7top": 381,
+        "7down": 289
+      }
+    }
+  ]
+}

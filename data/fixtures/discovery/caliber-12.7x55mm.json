@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37160300001",
+      "name": "12.7x55mm PS12A",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 523,
+        "7zf": 23.52,
+        "7df": -21.91,
+        "7top": 646,
+        "7down": 429
+      }
+    },
+    {
+      "id": "37160400001",
+      "name": "12.7x55mm PS12",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1527,
+        "7zf": 19.12,
+        "7df": -2.21,
+        "7top": 1819,
+        "7down": 1494
+      }
+    },
+    {
+      "id": "37160400002",
+      "name": "12.7x55mm PD12双头弹",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 2916,
+        "7zf": 21.84,
+        "7df": -2.53,
+        "7top": 3553,
+        "7down": 2844
+      }
+    },
+    {
+      "id": "37160500001",
+      "name": "12.7x55mm PS12B",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4853,
+        "7zf": 62.85,
+        "7df": -10.37,
+        "7top": 7903,
+        "7down": 4397
+      }
+    }
+  ]
+}

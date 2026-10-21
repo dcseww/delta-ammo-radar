@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37180300001",
+      "name": "7.62x54R T46M",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 373,
+        "7zf": 71.85,
+        "7df": -7.18,
+        "7top": 641,
+        "7down": 348
+      }
+    },
+    {
+      "id": "37180400001",
+      "name": "7.62x54R LPS",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1590,
+        "7zf": 23.46,
+        "7df": -3.72,
+        "7top": 1963,
+        "7down": 1533
+      }
+    },
+    {
+      "id": "37180500001",
+      "name": "7.62x54R BT",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5584,
+        "7zf": 6.7,
+        "7df": -5.2,
+        "7top": 5958,
+        "7down": 5308
+      }
+    },
+    {
+      "id": "37180600001",
+      "name": "7.62x54R SNB",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13120000243",
+      "name": "AK545口径30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000243.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 2.69,
+        "7df": -18.54,
+        "7top": 3697,
+        "7down": 3037
+      }
+    }
+  ]
+}

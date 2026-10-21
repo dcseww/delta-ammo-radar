@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37270300001",
+      "name": "玻纤柳叶箭矢",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "复合弓箭矢",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37270300001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 609,
+        "7zf": 60.1,
+        "7df": -8.75,
+        "7top": 975,
+        "7down": 560
+      }
+    },
+    {
+      "id": "37270400001",
+      "name": "碳纤维刺骨箭矢",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "复合弓箭矢",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37270400001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1800,
+        "7zf": 8.5,
+        "7df": -13.42,
+        "7top": 1953,
+        "7down": 1587
+      }
+    },
+    {
+      "id": "37270500001",
+      "name": "碳纤维穿甲箭矢",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "复合弓箭矢",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37270500001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5333,
+        "7zf": 25.95,
+        "7df": -6.43,
+        "7top": 6717,
+        "7down": 5011
+      }
+    },
+    {
+      "id": "37270500002",
+      "name": "碳纤维散射箭矢",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "复合弓箭矢",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37270500002.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15080050139",
+      "name": "图腾箭矢",
+      "grade": "4",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15080050139.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 14140,
+        "7zf": 7.26,
+        "7df": -0.16,
+        "7top": 15166,
+        "7down": 14117
+      }
+    }
+  ]
+}

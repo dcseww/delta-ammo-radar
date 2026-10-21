@@ -1,0 +1,27 @@
+{
+  "probed_at": "20261014T103401Z",
+  "request": {
+    "url": "https://dergame.cn/?type=armory",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*"
+    },
+    "body_sha256": null
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://dergame.cn/?type=armory",
+    "content_type": "text/html",
+    "bytes": 2641,
+    "sha256": "9f4b950420d59a0bbb63b09b41c9f6929b14f9a5cfa694ba6f40ea1ef4383071",
+    "elapsed_ms": 722
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[WARN] 返回 HTML —— 若数据在 JS 里渲染，HTML 里可能根本没有价格，需进一步确认"
+  ],
+  "key_field_hits": [
+    "子弹"
+  ]
+}

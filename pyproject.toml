@@ -1,0 +1,12 @@
+[project]
+name = "df-ammo-radar"
+version = "0.1.0"
+description = "三角洲行动 · 子弹物价实时监控系统（单机自用）"
+requires-python = ">=3.11"
+
+# 依赖以 requirements.txt 为准（本项目按开发文档用 requirements.txt 管理）
+# 这里只声明 pytest 的测试路径，避免 pytest 误扫 data/fixtures 里的 JSON。
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q"

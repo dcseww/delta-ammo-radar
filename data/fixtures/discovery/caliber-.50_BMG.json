@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37300600001",
+      "name": ".50 BMG M10 RAZOR",
+      "grade": "6",
+      "primary": "弹药",
+      "second": ".50 BMG",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37300600001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37300600002",
+      "name": ".50 BMG M3 K-0",
+      "grade": "6",
+      "primary": "弹药",
+      "second": ".50 BMG",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37300600002.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37300700001",
+      "name": ".50 BMG M903 SLAP",
+      "grade": "6",
+      "primary": "弹药",
+      "second": ".50 BMG",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37300700001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

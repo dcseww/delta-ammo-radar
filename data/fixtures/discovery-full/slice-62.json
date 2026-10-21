@@ -1,0 +1,349 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37110100001",
+      "name": "7.62x39mm LP",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 41,
+        "7zf": 2.44,
+        "7df": -2.5,
+        "7top": 42,
+        "7down": 40
+      }
+    },
+    {
+      "id": "37110200001",
+      "name": "7.62x39mm T45M",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 109,
+        "7zf": 3.67,
+        "7df": -0.93,
+        "7top": 113,
+        "7down": 108
+      }
+    },
+    {
+      "id": "37110300001",
+      "name": "7.62x39mm PS",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 305,
+        "7zf": 90.16,
+        "7df": -3.74,
+        "7top": 580,
+        "7down": 294
+      }
+    },
+    {
+      "id": "37110400001",
+      "name": "7.62x39mm BP",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1525,
+        "7zf": 18.82,
+        "7df": -11.07,
+        "7top": 1812,
+        "7down": 1373
+      }
+    },
+    {
+      "id": "37110400002",
+      "name": "7.62*39mm BP SUB",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37110500001",
+      "name": "7.62x39mm AP",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4952,
+        "7zf": 1.01,
+        "7df": -7.14,
+        "7top": 5002,
+        "7down": 4622
+      }
+    },
+    {
+      "id": "37110500002",
+      "name": "7.62*39mm AP SUB",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37170200001",
+      "name": "7.62x51mm UN",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 113,
+        "7zf": 4.42,
+        "7df": -0.89,
+        "7top": 118,
+        "7down": 112
+      }
+    },
+    {
+      "id": "37170300001",
+      "name": "7.62x51mm BPZ",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 392,
+        "7zf": 70.66,
+        "7df": -5.09,
+        "7top": 669,
+        "7down": 373
+      }
+    },
+    {
+      "id": "37170400001",
+      "name": "7.62x51mm M80",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1132,
+        "7zf": 20.85,
+        "7df": -4.24,
+        "7top": 1368,
+        "7down": 1086
+      }
+    },
+    {
+      "id": "37170500001",
+      "name": "7.62x51mm M62",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5558,
+        "7zf": 5.69,
+        "7df": -4.18,
+        "7top": 5874,
+        "7down": 5335
+      }
+    },
+    {
+      "id": "37170500002",
+      "name": "7.62 x 51mm LS",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 6479,
+        "7zf": 143.82,
+        "7df": -6.83,
+        "7top": 15797,
+        "7down": 6065
+      }
+    },
+    {
+      "id": "37170600001",
+      "name": "7.62x51mm M61",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37180300001",
+      "name": "7.62x54R T46M",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 373,
+        "7zf": 71.85,
+        "7df": -7.18,
+        "7top": 641,
+        "7down": 348
+      }
+    },
+    {
+      "id": "37180400001",
+      "name": "7.62x54R LPS",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1590,
+        "7zf": 23.46,
+        "7df": -3.72,
+        "7top": 1963,
+        "7down": 1533
+      }
+    },
+    {
+      "id": "37180500001",
+      "name": "7.62x54R BT",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5584,
+        "7zf": 6.7,
+        "7df": -5.2,
+        "7top": 5958,
+        "7down": 5308
+      }
+    },
+    {
+      "id": "37180600001",
+      "name": "7.62x54R SNB",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "7.62x54mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x54mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13120000240",
+      "name": "AK762弹匣30发（木色）",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000240.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 7100,
+      "dept_value": null,
+      "value": {
+        "new": 7200,
+        "7zf": 1.06,
+        "7df": 0,
+        "7top": 7276,
+        "7down": 7200
+      }
+    }
+  ]
+}

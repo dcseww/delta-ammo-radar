@@ -1,0 +1,25 @@
+{
+  "probed_at": "20261014T103343Z",
+  "request": {
+    "url": "https://www.18183.com/sjzxd/",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*"
+    },
+    "body_sha256": null
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://www.18183.com/sjzxd/",
+    "content_type": "text/html",
+    "bytes": 61184,
+    "sha256": "6b272c1c8adfdcc22939d74c988f4c7801950aa920ceab15fea2399c55fc10bc",
+    "elapsed_ms": 629
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[WARN] 返回 HTML —— 若数据在 JS 里渲染，HTML 里可能根本没有价格，需进一步确认"
+  ],
+  "key_field_hits": []
+}

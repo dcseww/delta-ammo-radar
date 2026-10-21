@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37220000001",
+      "name": ".357 Magnum 9号霰射\"鼠弹\"",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".357 Magnum",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/.357.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 237,
+        "7zf": 32.91,
+        "7df": -32.4,
+        "7top": 315,
+        "7down": 179
+      }
+    },
+    {
+      "id": "37220200001",
+      "name": ".357 Magnum HP",
+      "grade": "2",
+      "primary": "弹药",
+      "second": ".357 Magnum",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/.357.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 150,
+        "7zf": 6,
+        "7df": -6.38,
+        "7top": 159,
+        "7down": 141
+      }
+    },
+    {
+      "id": "37220300001",
+      "name": ".357 Magnum JHP",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".357 Magnum",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/.357.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 418,
+        "7zf": 76.56,
+        "7df": 0,
+        "7top": 738,
+        "7down": 418
+      }
+    },
+    {
+      "id": "37220400001",
+      "name": ".357 Magnum FMJ",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".357 Magnum",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/.357.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 523,
+        "7zf": 115.11,
+        "7df": -0.19,
+        "7top": 1125,
+        "7down": 522
+      }
+    }
+  ]
+}

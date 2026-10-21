@@ -1,0 +1,273 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37160300001",
+      "name": "12.7x55mm PS12A",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 538,
+        "7zf": 11.34,
+        "7df": -25.41,
+        "7top": 599,
+        "7down": 429
+      }
+    },
+    {
+      "id": "37160400001",
+      "name": "12.7x55mm PS12",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1539,
+        "7zf": 18.19,
+        "7df": -3.01,
+        "7top": 1819,
+        "7down": 1494
+      }
+    },
+    {
+      "id": "37160400002",
+      "name": "12.7x55mm PD12双头弹",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 2956,
+        "7zf": 20.2,
+        "7df": -3.94,
+        "7top": 3553,
+        "7down": 2844
+      }
+    },
+    {
+      "id": "37160500001",
+      "name": "12.7x55mm PS12B",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4855,
+        "7zf": 62.78,
+        "7df": -10.42,
+        "7top": 7903,
+        "7down": 4397
+      }
+    },
+    {
+      "id": "37100300001",
+      "name": "5.56x45mm M855",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 322,
+        "7zf": 67.08,
+        "7df": -18.82,
+        "7top": 538,
+        "7down": 271
+      }
+    },
+    {
+      "id": "37100300002",
+      "name": "5.56*45mm M855 APC",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37100400001",
+      "name": "5.56x45mm M855A1",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1576,
+        "7zf": 8.5,
+        "7df": -6.92,
+        "7top": 1710,
+        "7down": 1474
+      }
+    },
+    {
+      "id": "37100400002",
+      "name": "5.56*45mm M855A1 APC+",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13120000315",
+      "name": "SG552 30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000315.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3500,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 33.33,
+        "7df": -33.33,
+        "7top": 4800,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000317",
+      "name": "SG552 45发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000317.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 39200,
+      "dept_value": null,
+      "value": {
+        "new": 39600,
+        "7zf": 43.69,
+        "7df": -76,
+        "7top": 56900,
+        "7down": 22500
+      }
+    },
+    {
+      "id": "13040000091",
+      "name": "SG552枪托尾盖",
+      "grade": "2",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13040000091.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 3600,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 1.39,
+        "7df": 0,
+        "7top": 3650,
+        "7down": 3600
+      }
+    },
+    {
+      "id": "13020000320",
+      "name": "SG552骑士重枪管",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000320.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 21100,
+      "dept_value": null,
+      "value": {
+        "new": 12300,
+        "7zf": 155.28,
+        "7df": -14.95,
+        "7top": 31400,
+        "7down": 10700
+      }
+    },
+    {
+      "id": "13020000570",
+      "name": "SG552猎犬轻型枪管",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000570.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 21200,
+      "dept_value": null,
+      "value": {
+        "new": 21400,
+        "7zf": 0.42,
+        "7df": -8.08,
+        "7top": 21489,
+        "7down": 19800
+      }
+    },
+    {
+      "id": "18010000017",
+      "name": "SG552突击步枪",
+      "grade": "0",
+      "primary": "枪械",
+      "second": "步枪",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/18010000017.png",
+      "length": "5",
+      "width": "2",
+      "combat_value": 37000,
+      "dept_value": null,
+      "value": {
+        "new": 39000,
+        "7zf": 0.15,
+        "7df": -92.32,
+        "7top": 39059,
+        "7down": 20279
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "probed_at": "20261014T103341Z",
+  "request": {
+    "url": "https://www.233leyuan.com/",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*"
+    },
+    "body_sha256": null
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://www.233leyuan.com/",
+    "content_type": "text/html",
+    "bytes": 234394,
+    "sha256": "dbcda80f0d3c7587758750583284680f76eab6f8518a85a9a72f5df1331e923a",
+    "elapsed_ms": 303
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[WARN] 返回 HTML —— 若数据在 JS 里渲染，HTML 里可能根本没有价格，需进一步确认"
+  ],
+  "key_field_hits": [
+    "价格",
+    "item/ammo"
+  ]
+}

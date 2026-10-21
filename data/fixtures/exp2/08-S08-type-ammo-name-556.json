@@ -1,0 +1,178 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:40:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37100100001",
+      "name": "5.56x45mm RRLP",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 30,
+        "7zf": 10,
+        "7df": -3.45,
+        "7top": 33,
+        "7down": 29
+      }
+    },
+    {
+      "id": "37100200001",
+      "name": "5.56x45mm FMJ",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 75,
+        "7zf": 4,
+        "7df": -56.25,
+        "7top": 78,
+        "7down": 48
+      }
+    },
+    {
+      "id": "37100300001",
+      "name": "5.56x45mm M855",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 321,
+        "7zf": 67.91,
+        "7df": -18.45,
+        "7top": 539,
+        "7down": 271
+      }
+    },
+    {
+      "id": "37100300002",
+      "name": "5.56*45mm M855 APC",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37100400001",
+      "name": "5.56x45mm M855A1",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1553,
+        "7zf": 10.11,
+        "7df": -5.36,
+        "7top": 1710,
+        "7down": 1474
+      }
+    },
+    {
+      "id": "37100400002",
+      "name": "5.56*45mm M855A1 APC+",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37100500001",
+      "name": "5.56x45mm M995",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4804,
+        "7zf": 3.23,
+        "7df": -16.29,
+        "7top": 4959,
+        "7down": 4131
+      }
+    },
+    {
+      "id": "13120000030",
+      "name": "5.56*45 30发聚合物弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000030.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 6100,
+      "dept_value": null,
+      "value": {
+        "new": 6400,
+        "7zf": 10.94,
+        "7df": -20.75,
+        "7top": 7100,
+        "7down": 5300
+      }
+    },
+    {
+      "id": "13120000036",
+      "name": "5.56*45 30发铝匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000036.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 2900,
+      "dept_value": null,
+      "value": {
+        "new": 2800,
+        "7zf": 28.57,
+        "7df": -3.7,
+        "7top": 3600,
+        "7down": 2700
+      }
+    }
+  ]
+}

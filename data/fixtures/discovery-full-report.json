@@ -1,0 +1,981 @@
+{
+  "generated_at": "2026-10-14 20:37:06",
+  "url": "https://dergame.cn/api/Items/search",
+  "total_records": 113,
+  "unique_names": 111,
+  "priced": 85,
+  "tier_distribution": {
+    "白": 7,
+    "紫": 36,
+    "红": 7,
+    "绿": 12,
+    "蓝": 28,
+    "金": 23
+  },
+  "caliber_distribution": {
+    "12 Gauge": 10,
+    "5.45x39mm": 8,
+    ".45 ACP": 7,
+    "5.56x45mm": 7,
+    "5.7x28mm": 7,
+    "7.62x39mm": 7,
+    "4.6x30mm": 6,
+    "5.8x42mm": 6,
+    "6.8x51mm": 6,
+    "7.62x51mm": 6,
+    "9x19mm": 6,
+    "7.62x35mm": 5,
+    "9x39mm": 5,
+    ".357 Magnum": 4,
+    ".50 AE": 4,
+    "12.7x55mm": 4,
+    "7.62x54mm": 4,
+    "复合弓箭矢": 4,
+    ".45-70mm": 3,
+    ".50 BMG": 3,
+    ".338 Lap Mag": 1
+  },
+  "duplicate_names": {
+    ".300BLK": 3
+  },
+  "capped_rounds": [],
+  "rounds": [
+    {
+      "label": "seed-all",
+      "keyword": null,
+      "payload": {
+        "type": [
+          "弹药"
+        ]
+      },
+      "returned_total": 85,
+      "returned_ammo": 85,
+      "new_ammo": 85,
+      "capped": false
+    },
+    {
+      "label": "seed-Gauge",
+      "keyword": "Gauge",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "Gauge"
+      },
+      "returned_total": 10,
+      "returned_ammo": 10,
+      "new_ammo": 1,
+      "capped": false
+    },
+    {
+      "label": "seed-12.7",
+      "keyword": "12.7",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12.7"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-.50",
+      "keyword": ".50",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".50"
+      },
+      "returned_total": 7,
+      "returned_ammo": 7,
+      "new_ammo": 4,
+      "capped": false
+    },
+    {
+      "label": "seed-.338",
+      "keyword": ".338",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".338"
+      },
+      "returned_total": 1,
+      "returned_ammo": 1,
+      "new_ammo": 1,
+      "capped": false
+    },
+    {
+      "label": "seed-.357",
+      "keyword": ".357",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".357"
+      },
+      "returned_total": 10,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-45-70",
+      "keyword": "45-70",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "45-70"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-.45",
+      "keyword": ".45",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".45"
+      },
+      "returned_total": 15,
+      "returned_ammo": 15,
+      "new_ammo": 4,
+      "capped": false
+    },
+    {
+      "label": "seed-4.6",
+      "keyword": "4.6",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "4.6"
+      },
+      "returned_total": 6,
+      "returned_ammo": 6,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-5.45",
+      "keyword": "5.45",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.45"
+      },
+      "returned_total": 8,
+      "returned_ammo": 8,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-5.56",
+      "keyword": "5.56",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.56"
+      },
+      "returned_total": 9,
+      "returned_ammo": 7,
+      "new_ammo": 2,
+      "capped": false
+    },
+    {
+      "label": "seed-5.7",
+      "keyword": "5.7",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.7"
+      },
+      "returned_total": 7,
+      "returned_ammo": 7,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-5.8",
+      "keyword": "5.8",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.8"
+      },
+      "returned_total": 9,
+      "returned_ammo": 6,
+      "new_ammo": 2,
+      "capped": false
+    },
+    {
+      "label": "seed-6.8",
+      "keyword": "6.8",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "6.8"
+      },
+      "returned_total": 8,
+      "returned_ammo": 6,
+      "new_ammo": 4,
+      "capped": false
+    },
+    {
+      "label": "seed-7.62",
+      "keyword": "7.62",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62"
+      },
+      "returned_total": 17,
+      "returned_ammo": 17,
+      "new_ammo": 4,
+      "capped": false
+    },
+    {
+      "label": "seed-9x",
+      "keyword": "9x",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "9x"
+      },
+      "returned_total": 8,
+      "returned_ammo": 8,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-9mm",
+      "keyword": "9mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "9mm"
+      },
+      "returned_total": 26,
+      "returned_ammo": 26,
+      "new_ammo": 3,
+      "capped": false
+    },
+    {
+      "label": "seed-300BLK",
+      "keyword": "300BLK",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "300BLK"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 2,
+      "capped": false
+    },
+    {
+      "label": "seed-.300",
+      "keyword": ".300",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".300"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-9x39",
+      "keyword": "9x39",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "9x39"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-箭矢",
+      "keyword": "箭矢",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "箭矢"
+      },
+      "returned_total": 5,
+      "returned_ammo": 4,
+      "new_ammo": 1,
+      "capped": false
+    },
+    {
+      "label": "seed-ACP",
+      "keyword": "ACP",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "ACP"
+      },
+      "returned_total": 7,
+      "returned_ammo": 7,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-BMG",
+      "keyword": "BMG",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "BMG"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-Lap Mag",
+      "keyword": "Lap Mag",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "Lap Mag"
+      },
+      "returned_total": 1,
+      "returned_ammo": 1,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-Magnum",
+      "keyword": "Magnum",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "Magnum"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-AP",
+      "keyword": "AP",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "AP"
+      },
+      "returned_total": 17,
+      "returned_ammo": 14,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-SUB",
+      "keyword": "SUB",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "SUB"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "seed-CT",
+      "keyword": "CT",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "CT"
+      },
+      "returned_total": 4,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-357",
+      "keyword": "357",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "357"
+      },
+      "returned_total": 10,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-.357 Magn",
+      "keyword": ".357 Magn",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".357 Magn"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-357 Magn",
+      "keyword": "357 Magn",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "357 Magn"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-45",
+      "keyword": "45",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "45"
+      },
+      "returned_total": 46,
+      "returned_ammo": 26,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-.45 ACP",
+      "keyword": ".45 ACP",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".45 ACP"
+      },
+      "returned_total": 7,
+      "returned_ammo": 7,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-45 ACP",
+      "keyword": "45 ACP",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "45 ACP"
+      },
+      "returned_total": 7,
+      "returned_ammo": 7,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-70",
+      "keyword": "70",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "70"
+      },
+      "returned_total": 22,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-70 Govt",
+      "keyword": "70 Govt",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "70 Govt"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-50",
+      "keyword": "50",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "50"
+      },
+      "returned_total": 16,
+      "returned_ammo": 7,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-.50 AE",
+      "keyword": ".50 AE",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".50 AE"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-50 AE",
+      "keyword": "50 AE",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "50 AE"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-12",
+      "keyword": "12",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12"
+      },
+      "returned_total": 44,
+      "returned_ammo": 16,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-8.5",
+      "keyword": "8.5",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "8.5"
+      },
+      "returned_total": 1,
+      "returned_ammo": 1,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-12 Gaug",
+      "keyword": "12 Gaug",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12 Gaug"
+      },
+      "returned_total": 10,
+      "returned_ammo": 10,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-20",
+      "keyword": "20",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "20"
+      },
+      "returned_total": 16,
+      "returned_ammo": 1,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-55",
+      "keyword": "55",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "55"
+      },
+      "returned_total": 14,
+      "returned_ammo": 8,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-12.7x",
+      "keyword": "12.7x",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12.7x"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-55mm",
+      "keyword": "55mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "55mm"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-12A",
+      "keyword": "12A",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12A"
+      },
+      "returned_total": 1,
+      "returned_ammo": 1,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-12B",
+      "keyword": "12B",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12B"
+      },
+      "returned_total": 1,
+      "returned_ammo": 1,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-30",
+      "keyword": "30",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "30"
+      },
+      "returned_total": 37,
+      "returned_ammo": 11,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-4.6 x",
+      "keyword": "4.6 x",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "4.6 x"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-30mm",
+      "keyword": "30mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "30mm"
+      },
+      "returned_total": 6,
+      "returned_ammo": 6,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "slice-4.6x",
+      "keyword": "4.6x",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "4.6x"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-7.62x35mm",
+      "keyword": "7.62x35mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62x35mm"
+      },
+      "returned_total": 0,
+      "returned_ammo": 0,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-.45-70mm",
+      "keyword": ".45-70mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": ".45-70mm"
+      },
+      "returned_total": 0,
+      "returned_ammo": 0,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-5.45x39mm",
+      "keyword": "5.45x39mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.45x39mm"
+      },
+      "returned_total": 6,
+      "returned_ammo": 6,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-7.62x39mm",
+      "keyword": "7.62x39mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62x39mm"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-5.7x28mm",
+      "keyword": "5.7x28mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.7x28mm"
+      },
+      "returned_total": 6,
+      "returned_ammo": 6,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-9x19mm",
+      "keyword": "9x19mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "9x19mm"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-7.62x54mm",
+      "keyword": "7.62x54mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62x54mm"
+      },
+      "returned_total": 0,
+      "returned_ammo": 0,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-6.8x51mm",
+      "keyword": "6.8x51mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "6.8x51mm"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-4.6x30mm",
+      "keyword": "4.6x30mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "4.6x30mm"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-9x39mm",
+      "keyword": "9x39mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "9x39mm"
+      },
+      "returned_total": 3,
+      "returned_ammo": 3,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-7.62x51mm",
+      "keyword": "7.62x51mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62x51mm"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-复合弓箭矢",
+      "keyword": "复合弓箭矢",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "复合弓箭矢"
+      },
+      "returned_total": 0,
+      "returned_ammo": 0,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-5.8x42mm",
+      "keyword": "5.8x42mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.8x42mm"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-12.7x55mm",
+      "keyword": "12.7x55mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "12.7x55mm"
+      },
+      "returned_total": 4,
+      "returned_ammo": 4,
+      "new_ammo": 0,
+      "capped": false
+    },
+    {
+      "label": "verify-5.56x45mm",
+      "keyword": "5.56x45mm",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.56x45mm"
+      },
+      "returned_total": 5,
+      "returned_ammo": 5,
+      "new_ammo": 0,
+      "capped": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:40:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37100300001",
+      "name": "5.56x45mm M855",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 321,
+        "7zf": 67.91,
+        "7df": -18.45,
+        "7top": 539,
+        "7down": 271
+      }
+    },
+    {
+      "id": "37100300002",
+      "name": "5.56*45mm M855 APC",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37100400001",
+      "name": "5.56x45mm M855A1",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1553,
+        "7zf": 10.11,
+        "7df": -5.36,
+        "7top": 1710,
+        "7down": 1474
+      }
+    },
+    {
+      "id": "37100400002",
+      "name": "5.56*45mm M855A1 APC+",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

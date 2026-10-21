@@ -1,0 +1,27 @@
+{
+  "probed_at": "20261014T103403Z",
+  "request": {
+    "url": "https://raw.githubusercontent.com/K12f/df-dicuss/main/README.md",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*"
+    },
+    "body_sha256": null
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/K12f/df-dicuss/main/README.md",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 249,
+    "sha256": "01d7592e9b88673c3110bf5d52fa6e6e7afce074443374c2db75ac05d39a5c94",
+    "elapsed_ms": 612
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[WARN] Content-Type = text/plain; charset=utf-8"
+  ],
+  "key_field_hits": [
+    "价格"
+  ]
+}

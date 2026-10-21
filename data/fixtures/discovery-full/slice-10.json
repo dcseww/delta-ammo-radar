@@ -1,0 +1,406 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37300600001",
+      "name": ".50 BMG M10 RAZOR",
+      "grade": "6",
+      "primary": "弹药",
+      "second": ".50 BMG",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37300600001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37130400001",
+      "name": "5.8x42mm DBP10",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.8x42mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.8x42.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1586,
+        "7zf": 28.69,
+        "7df": -2.52,
+        "7top": 2041,
+        "7down": 1547
+      }
+    },
+    {
+      "id": "37130400002",
+      "name": "5.8*42mm DBP10+P",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.8x42mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.8x42.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13120000286",
+      "name": "M700 10发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000286.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 14700,
+      "dept_value": null,
+      "value": {
+        "new": 15400,
+        "7zf": 24.68,
+        "7df": -9.22,
+        "7top": 19200,
+        "7down": 14100
+      }
+    },
+    {
+      "id": "13120000289",
+      "name": "S12K扩容10发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000289.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 5900,
+      "dept_value": null,
+      "value": {
+        "new": 6100,
+        "7zf": 137.7,
+        "7df": -5.17,
+        "7top": 14500,
+        "7down": 5800
+      }
+    },
+    {
+      "id": "13050000188",
+      "name": "M1014导轨护木",
+      "grade": "2",
+      "primary": "配件",
+      "second": "护木",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13050000188.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 6400,
+      "dept_value": null,
+      "value": {
+        "new": 6300,
+        "7zf": 228.57,
+        "7df": 0,
+        "7top": 20700,
+        "7down": 6300
+      }
+    },
+    {
+      "id": "15080050046",
+      "name": "扑克牌-10",
+      "grade": "1",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15080050046.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 740,
+        "7zf": 1796.35,
+        "7df": -21.91,
+        "7top": 14033,
+        "7down": 607
+      }
+    },
+    {
+      "id": "15200000226",
+      "name": "零号大坝藏宝图10号",
+      "grade": "5",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15200000226.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15200000238",
+      "name": "长弓溪谷藏宝图10号",
+      "grade": "5",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15200000238.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15200000250",
+      "name": "巴克什藏宝图10号",
+      "grade": "5",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15200000250.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15200000262",
+      "name": "AZ3藏宝图10号",
+      "grade": "5",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15200000262.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15200000274",
+      "name": "航天基地藏宝图10号",
+      "grade": "5",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15200000274.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15209500037",
+      "name": "阿萨拉牌-黑桃10",
+      "grade": "2",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15209500037.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15209500038",
+      "name": "阿萨拉牌-红桃10",
+      "grade": "2",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15209500038.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15209500039",
+      "name": "阿萨拉牌-梅花10",
+      "grade": "2",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15209500039.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "15209500040",
+      "name": "阿萨拉牌-方片10",
+      "grade": "2",
+      "primary": "道具",
+      "second": "收集品",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/15209500040.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13040000132",
+      "name": "1014伸缩托（展开）",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13040000132.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 50700,
+      "dept_value": null,
+      "value": {
+        "new": 50900,
+        "7zf": 42.44,
+        "7df": -54.24,
+        "7top": 72500,
+        "7down": 33000
+      }
+    },
+    {
+      "id": "13040000133",
+      "name": "1014伸缩托（折叠）",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13040000133.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 33400,
+      "dept_value": null,
+      "value": {
+        "new": 33100,
+        "7zf": 0.05,
+        "7df": -13.36,
+        "7top": 33117,
+        "7down": 29200
+      }
+    },
+    {
+      "id": "13040000134",
+      "name": "1014固定枪托",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13040000134.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 19800,
+      "dept_value": null,
+      "value": {
+        "new": 19900,
+        "7zf": 0.09,
+        "7df": -4.74,
+        "7top": 19918,
+        "7down": 19000
+      }
+    },
+    {
+      "id": "13020000453",
+      "name": "M1014断点枪管",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000453.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 27600,
+      "dept_value": null,
+      "value": {
+        "new": 22900,
+        "7zf": 30.13,
+        "7df": -43.13,
+        "7top": 29800,
+        "7down": 16000
+      }
+    },
+    {
+      "id": "18030000001",
+      "name": "M1014霰弹枪",
+      "grade": "0",
+      "primary": "枪械",
+      "second": "霰弹枪",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/18030000001.png",
+      "length": "5",
+      "width": "2",
+      "combat_value": 26200,
+      "dept_value": null,
+      "value": {
+        "new": 26500,
+        "7zf": 0.33,
+        "7df": 0,
+        "7top": 26588,
+        "7down": 26500
+      }
+    }
+  ]
+}

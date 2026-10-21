@@ -1,0 +1,19 @@
+{
+  "name": "dergame name/type 过滤语义精确探测（含单参对照）",
+  "url": "https://dergame.cn/api/Items/search",
+  "list_path": "data",
+  "delay_seconds": 1.5,
+  "timeout_seconds": 25,
+  "rounds": [
+    { "label": "S01-name-only-762x35mm", "payload": { "name": "7.62x35mm" } },
+    { "label": "S02-name-only-5-56x45mm", "payload": { "name": "5.56x45mm" } },
+    { "label": "S03-name-only-556-upper", "payload": { "name": "5.56" } },
+    { "label": "S04-name-only-Lap-Mag", "payload": { "name": "Lap Mag" } },
+    { "label": "S05-name-only-hyphen-45-70", "payload": { "name": ".45-70mm" } },
+    { "label": "S06-name-only-4570", "payload": { "name": ".45-70" } },
+    { "label": "S07-type-ammo-name-762x35", "payload": { "type": ["弹药"], "name": "7.62x35mm" } },
+    { "label": "S08-type-ammo-name-556", "payload": { "type": ["弹药"], "name": "5.56" } },
+    { "label": "S09-name-only-A", "payload": { "name": "A" } },
+    { "label": "S10-name-only-M855", "payload": { "name": "M855" } }
+  ]
+}

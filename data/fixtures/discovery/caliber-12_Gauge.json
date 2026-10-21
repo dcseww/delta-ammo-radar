@@ -1,0 +1,197 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37250000001",
+      "name": "12 Gauge 8.5毫米鹿弹",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 349,
+        "7zf": 9.17,
+        "7df": -20.76,
+        "7top": 381,
+        "7down": 289
+      }
+    },
+    {
+      "id": "37250000002",
+      "name": "12 Gauge独头 RIP",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 131,
+        "7zf": 22.14,
+        "7df": -5.65,
+        "7top": 160,
+        "7down": 124
+      }
+    },
+    {
+      "id": "37250100001",
+      "name": "12 Gauge 7毫米鹿弹",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 22,
+        "7zf": 18.18,
+        "7df": -10,
+        "7top": 26,
+        "7down": 20
+      }
+    },
+    {
+      "id": "37250200002",
+      "name": "12 Gauge独头 GT",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 62,
+        "7zf": 3.23,
+        "7df": -1.64,
+        "7top": 64,
+        "7down": 61
+      }
+    },
+    {
+      "id": "37250300001",
+      "name": "12 Gauge 箭形弹",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 378,
+        "7zf": 46.03,
+        "7df": -17.03,
+        "7top": 552,
+        "7down": 323
+      }
+    },
+    {
+      "id": "37250300002",
+      "name": "12 Gauge独头 FTX",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 498,
+        "7zf": 58.03,
+        "7df": -8.26,
+        "7top": 787,
+        "7down": 460
+      }
+    },
+    {
+      "id": "37250400002",
+      "name": "12 Gauge独头 AP-20",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 438,
+        "7zf": 79.91,
+        "7df": -7.09,
+        "7top": 788,
+        "7down": 409
+      }
+    },
+    {
+      "id": "37250400003",
+      "name": "12 Gauge 龙息弹",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1528,
+        "7zf": 41.23,
+        "7df": -2.07,
+        "7top": 2158,
+        "7down": 1497
+      }
+    },
+    {
+      "id": "37250400004",
+      "name": "12 Gauge 独头 APX",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37250400005",
+      "name": "12 Gauge DART",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 406,
+        "7zf": 20.2,
+        "7df": -3.31,
+        "7top": 488,
+        "7down": 393
+      }
+    }
+  ]
+}

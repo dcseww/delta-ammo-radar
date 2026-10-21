@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37170200001",
+      "name": "7.62x51mm UN",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 113,
+        "7zf": 4.42,
+        "7df": -0.89,
+        "7top": 118,
+        "7down": 112
+      }
+    },
+    {
+      "id": "37170300001",
+      "name": "7.62x51mm BPZ",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 400,
+        "7zf": 67,
+        "7df": -7.24,
+        "7top": 668,
+        "7down": 373
+      }
+    },
+    {
+      "id": "37170400001",
+      "name": "7.62x51mm M80",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1133,
+        "7zf": 20.74,
+        "7df": -4.33,
+        "7top": 1368,
+        "7down": 1086
+      }
+    },
+    {
+      "id": "37170500001",
+      "name": "7.62x51mm M62",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5552,
+        "7zf": 5.8,
+        "7df": -4.07,
+        "7top": 5874,
+        "7down": 5335
+      }
+    },
+    {
+      "id": "37170600001",
+      "name": "7.62x51mm M61",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

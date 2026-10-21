@@ -1,0 +1,206 @@
+{
+  "spec_name": "dergame /api/Items/search 过滤参数语义探测",
+  "url": "https://dergame.cn/api/Items/search",
+  "total_unique_names": 174,
+  "rounds": [
+    {
+      "round": 1,
+      "label": "R01-grade-int-6",
+      "payload": {
+        "grade": [
+          6
+        ]
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {},
+      "new_names": 0
+    },
+    {
+      "round": 2,
+      "label": "R02-grade-int-1",
+      "payload": {
+        "grade": [
+          1
+        ]
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 3,
+      "label": "R03-grade-str-6-single",
+      "payload": {
+        "grade": "6"
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": null,
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 4,
+      "label": "R04-grade-int-all",
+      "payload": {
+        "grade": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0,
+        "R03-grade-str-6-single": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 5,
+      "label": "R05-type-ammo-grade-int6",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "grade": [
+          6
+        ]
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0,
+        "R03-grade-str-6-single": 0,
+        "R04-grade-int-all": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 6,
+      "label": "R06-type-ammo-only",
+      "payload": {
+        "type": [
+          "弹药"
+        ]
+      },
+      "status": 200,
+      "count": 85,
+      "unique_names": 83,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {
+        "弹药": 85
+      },
+      "grade_dist": {
+        "1": 7,
+        "2": 12,
+        "3": 24,
+        "4": 25,
+        "5": 17
+      },
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0,
+        "R03-grade-str-6-single": 0,
+        "R04-grade-int-all": 0,
+        "R05-type-ammo-grade-int6": 0
+      },
+      "new_names": 83
+    },
+    {
+      "round": 7,
+      "label": "R07-type-armor",
+      "payload": {
+        "type": [
+          "护甲"
+        ]
+      },
+      "status": 200,
+      "count": 66,
+      "unique_names": 66,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {
+        "装备": 66
+      },
+      "grade_dist": {
+        "1": 12,
+        "2": 12,
+        "3": 12,
+        "4": 15,
+        "5": 12,
+        "6": 3
+      },
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0,
+        "R03-grade-str-6-single": 0,
+        "R04-grade-int-all": 0,
+        "R05-type-ammo-grade-int6": 0,
+        "R06-type-ammo-only": 0
+      },
+      "new_names": 66
+    },
+    {
+      "round": 8,
+      "label": "R08-empty-baseline",
+      "payload": {},
+      "status": 200,
+      "count": 100,
+      "unique_names": 98,
+      "update_time": "2026-10-14 18:30:01",
+      "primary_dist": {
+        "弹药": 100
+      },
+      "grade_dist": {
+        "1": 6,
+        "2": 11,
+        "3": 24,
+        "4": 32,
+        "5": 20,
+        "6": 7
+      },
+      "overlap_with_previous": {
+        "R01-grade-int-6": 0,
+        "R02-grade-int-1": 0,
+        "R03-grade-str-6-single": 0,
+        "R04-grade-int-all": 0,
+        "R05-type-ammo-grade-int6": 0,
+        "R06-type-ammo-only": 73,
+        "R07-type-armor": 0
+      },
+      "new_names": 25
+    }
+  ]
+}

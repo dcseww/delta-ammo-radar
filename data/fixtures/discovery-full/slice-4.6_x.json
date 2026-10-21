@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37260000002",
+      "name": "4.6 x 30mm CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1889,
+        "7zf": 12.02,
+        "7df": -7.76,
+        "7top": 2116,
+        "7down": 1753
+      }
+    },
+    {
+      "id": "37260400002",
+      "name": "4.6 x 30mm FMJ ST",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1066,
+        "7zf": 10.79,
+        "7df": -20.18,
+        "7top": 1181,
+        "7down": 887
+      }
+    },
+    {
+      "id": "37260500002",
+      "name": "4.6 x 30mm AP ST",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5812,
+        "7zf": 2.22,
+        "7df": -33.98,
+        "7top": 5941,
+        "7down": 4338
+      }
+    }
+  ]
+}

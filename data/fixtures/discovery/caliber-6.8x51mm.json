@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37150400001",
+      "name": "6.8x51mm FMJ",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1574,
+        "7zf": 24.65,
+        "7df": -0.7,
+        "7top": 1962,
+        "7down": 1563
+      }
+    },
+    {
+      "id": "37150500001",
+      "name": "6.8x51mm Hybrid",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5041,
+        "7zf": 7.78,
+        "7df": -7.3,
+        "7top": 5433,
+        "7down": 4698
+      }
+    },
+    {
+      "id": "37150600001",
+      "name": "6.8x51mm AP",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37260300001",
+      "name": "4.6x30mm Subsonic SX",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 134,
+        "7zf": 20.9,
+        "7df": -2.29,
+        "7top": 162,
+        "7down": 131
+      }
+    },
+    {
+      "id": "37260400001",
+      "name": "4.6x30mm FMJ SX",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 965,
+        "7zf": 33.26,
+        "7df": -7.34,
+        "7top": 1286,
+        "7down": 899
+      }
+    },
+    {
+      "id": "37260500001",
+      "name": "4.6x30mm AP SX",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4195,
+        "7zf": 5.08,
+        "7df": -14.37,
+        "7top": 4408,
+        "7down": 3668
+      }
+    }
+  ]
+}

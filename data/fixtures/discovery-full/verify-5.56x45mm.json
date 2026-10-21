@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37100100001",
+      "name": "5.56x45mm RRLP",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 30,
+        "7zf": 10,
+        "7df": -3.45,
+        "7top": 33,
+        "7down": 29
+      }
+    },
+    {
+      "id": "37100200001",
+      "name": "5.56x45mm FMJ",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 75,
+        "7zf": 2.67,
+        "7df": -56.25,
+        "7top": 77,
+        "7down": 48
+      }
+    },
+    {
+      "id": "37100300001",
+      "name": "5.56x45mm M855",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 322,
+        "7zf": 67.08,
+        "7df": -18.82,
+        "7top": 538,
+        "7down": 271
+      }
+    },
+    {
+      "id": "37100400001",
+      "name": "5.56x45mm M855A1",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1576,
+        "7zf": 8.5,
+        "7df": -6.92,
+        "7top": 1710,
+        "7down": 1474
+      }
+    },
+    {
+      "id": "37100500001",
+      "name": "5.56x45mm M995",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "5.56x45mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.56x45mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4892,
+        "7zf": 1.37,
+        "7df": -18.42,
+        "7top": 4959,
+        "7down": 4131
+      }
+    }
+  ]
+}

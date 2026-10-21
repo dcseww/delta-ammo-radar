@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37230200001",
+      "name": ".50 AE HP",
+      "grade": "2",
+      "primary": "弹药",
+      "second": ".50 AE",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/50-AE.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 153,
+        "7zf": 5.88,
+        "7df": -8.51,
+        "7top": 162,
+        "7down": 141
+      }
+    },
+    {
+      "id": "37230300001",
+      "name": ".50 AE JHP",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".50 AE",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/50-AE.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 487,
+        "7zf": 42.09,
+        "7df": -9.19,
+        "7top": 692,
+        "7down": 446
+      }
+    },
+    {
+      "id": "37230400001",
+      "name": ".50 AE FMJ",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".50 AE",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/50-AE.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 697,
+        "7zf": 122.09,
+        "7df": -10.99,
+        "7top": 1548,
+        "7down": 628
+      }
+    },
+    {
+      "id": "37230500001",
+      "name": ".50 AE AP",
+      "grade": "5",
+      "primary": "弹药",
+      "second": ".50 AE",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/50-AE.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

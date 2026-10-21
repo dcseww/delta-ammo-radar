@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37240700001",
+      "name": ".338 Lap Mag AP",
+      "grade": "6",
+      "primary": "弹药",
+      "second": ".338 Lap Mag",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/338.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37250400002",
+      "name": "12 Gauge独头 AP-20",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 436,
+        "7zf": 79.82,
+        "7df": -6.6,
+        "7top": 784,
+        "7down": 409
+      }
+    },
+    {
+      "id": "13170000011",
+      "name": "QJB201脚架",
+      "grade": "4",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13170000011.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 16700,
+      "dept_value": null,
+      "value": {
+        "new": 17200,
+        "7zf": 5.81,
+        "7df": 0,
+        "7top": 18200,
+        "7down": 17200
+      }
+    },
+    {
+      "id": "13390000006",
+      "name": "QJB201新式高速导气箍",
+      "grade": "3",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13390000006.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 35500,
+      "dept_value": null,
+      "value": {
+        "new": 40400,
+        "7zf": 19.31,
+        "7df": -74.89,
+        "7top": 48200,
+        "7down": 23100
+      }
+    },
+    {
+      "id": "13390000007",
+      "name": "QJB201新式稳固导气箍",
+      "grade": "3",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13390000007.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 22100,
+      "dept_value": null,
+      "value": {
+        "new": 23600,
+        "7zf": 6.78,
+        "7df": -62.76,
+        "7top": 25200,
+        "7down": 14500
+      }
+    },
+    {
+      "id": "11010003004",
+      "name": "MC201 头盔",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 44400,
+      "dept_value": null,
+      "value": {
+        "new": 44600,
+        "7zf": 23.32,
+        "7df": -11.22,
+        "7top": 55000,
+        "7down": 40100
+      }
+    },
+    {
+      "id": "1101000300401",
+      "name": "MC201 头盔（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 34200,
+      "dept_value": null,
+      "value": {
+        "new": 34100,
+        "7zf": 3.81,
+        "7df": -7.91,
+        "7top": 35400,
+        "7down": 31600
+      }
+    },
+    {
+      "id": "1101000300402",
+      "name": "MC201 头盔（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 26700,
+      "dept_value": null,
+      "value": {
+        "new": 29100,
+        "7zf": 3.86,
+        "7df": -7.78,
+        "7top": 30224,
+        "7down": 27000
+      }
+    },
+    {
+      "id": "13120000035",
+      "name": "Mini-14 20发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000035.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 6400,
+      "dept_value": null,
+      "value": {
+        "new": 6500,
+        "7zf": 15.38,
+        "7df": 0,
+        "7top": 7500,
+        "7down": 6500
+      }
+    },
+    {
+      "id": "13120000150",
+      "name": "SR25 20发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000150.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 37500,
+      "dept_value": null,
+      "value": {
+        "new": 42300,
+        "7zf": 20.57,
+        "7df": -69.2,
+        "7top": 51000,
+        "7down": 25000
+      }
+    },
+    {
+      "id": "13120000249",
+      "name": "M14 20发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000249.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 22700,
+      "dept_value": null,
+      "value": {
+        "new": 23300,
+        "7zf": 0.38,
+        "7df": -9.39,
+        "7top": 23389,
+        "7down": 21300
+      }
+    },
+    {
+      "id": "13120000300",
+      "name": "SVD 20发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000300.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 21900,
+      "dept_value": null,
+      "value": {
+        "new": 22500,
+        "7zf": 0.19,
+        "7df": 0,
+        "7top": 22542,
+        "7down": 22500
+      }
+    },
+    {
+      "id": "13120000330",
+      "name": "PSG 20发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000330.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 21900,
+      "dept_value": null,
+      "value": {
+        "new": 22500,
+        "7zf": 0.19,
+        "7df": -8.17,
+        "7top": 22542,
+        "7down": 20800
+      }
+    },
+    {
+      "id": "13020000529",
+      "name": "QJB201新式獠牙短枪管",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000529.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 62500,
+      "dept_value": null,
+      "value": {
+        "new": 61600,
+        "7zf": 52.11,
+        "7df": -109.52,
+        "7top": 93700,
+        "7down": 29400
+      }
+    },
+    {
+      "id": "13020000530",
+      "name": "QJB201新式重锤战术枪管",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000530.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 56000,
+      "dept_value": null,
+      "value": {
+        "new": 37200,
+        "7zf": 117.47,
+        "7df": -3.62,
+        "7top": 80900,
+        "7down": 35900
+      }
+    },
+    {
+      "id": "18040000004",
+      "name": "QJB201轻机枪",
+      "grade": "0",
+      "primary": "枪械",
+      "second": "轻机枪",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/18040000004.png",
+      "length": "4",
+      "width": "5",
+      "combat_value": 112600,
+      "dept_value": null,
+      "value": {
+        "new": 121500,
+        "7zf": 10.04,
+        "7df": -53.8,
+        "7top": 133700,
+        "7down": 79000
+      }
+    },
+    {
+      "id": "15050100003",
+      "name": "水泥厂宿舍201",
+      "grade": "4",
+      "primary": "道具",
+      "second": "钥匙",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/key/零号大坝白卡.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 365855,
+        "7zf": 0.89,
+        "7df": -5.32,
+        "7top": 369110,
+        "7down": 347390
+      }
+    }
+  ]
+}

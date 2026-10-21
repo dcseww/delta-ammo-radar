@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37170400001",
+      "name": "7.62x51mm M80",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x51mm.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1132,
+        "7zf": 20.85,
+        "7df": -4.24,
+        "7top": 1368,
+        "7down": 1086
+      }
+    }
+  ]
+}

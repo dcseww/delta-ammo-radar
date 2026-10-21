@@ -1,0 +1,19 @@
+{
+  "name": "补齐被 100 条上限截断的 9 系列弹药",
+  "url": "https://dergame.cn/api/Items/search",
+  "list_path": "data",
+  "delay_seconds": 1.4,
+  "timeout_seconds": 25,
+  "rounds": [
+    { "label": "N01-9x18", "payload": { "type": ["弹药"], "name": "9x18" } },
+    { "label": "N02-9x19", "payload": { "type": ["弹药"], "name": "9x19" } },
+    { "label": "N03-9-19-star", "payload": { "type": ["弹药"], "name": "9*19" } },
+    { "label": "N04-9x39", "payload": { "type": ["弹药"], "name": "9x39" } },
+    { "label": "N05-9-39-star", "payload": { "type": ["弹药"], "name": "9*39" } },
+    { "label": "N06-9mm", "payload": { "type": ["弹药"], "name": "9mm" } },
+    { "label": "N07-9-3", "payload": { "type": ["弹药"], "name": "9.3" } },
+    { "label": "N08-9x", "payload": { "type": ["弹药"], "name": "9x" } },
+    { "label": "N09-9-space", "payload": { "type": ["弹药"], "name": "9 " } },
+    { "label": "N10-verify-5-45", "payload": { "type": ["弹药"], "name": "5.45" } }
+  ]
+}

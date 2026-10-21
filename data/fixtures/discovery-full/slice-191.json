@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:00:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37210300001",
+      "name": "5.7x28mm L191",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "5.7x28mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/5.7x28.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 365,
+        "7zf": 58.08,
+        "7df": -24.15,
+        "7top": 577,
+        "7down": 294
+      }
+    },
+    {
+      "id": "13250000006",
+      "name": "M1911夜鹰战术扳机",
+      "grade": "3",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13250000006.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 9200,
+      "dept_value": null,
+      "value": {
+        "new": 8900,
+        "7zf": 0.66,
+        "7df": -12.66,
+        "7top": 8959,
+        "7down": 7900
+      }
+    },
+    {
+      "id": "13380000002",
+      "name": "M1911夜鹰战术击锤",
+      "grade": "3",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13380000002.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 9200,
+      "dept_value": null,
+      "value": {
+        "new": 8900,
+        "7zf": 0.66,
+        "7df": -12.66,
+        "7top": 8959,
+        "7down": 7900
+      }
+    },
+    {
+      "id": "13030000185",
+      "name": "M1911夜鹰战术后握把",
+      "grade": "2",
+      "primary": "配件",
+      "second": "后握把",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13030000185.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 5600,
+      "dept_value": null,
+      "value": {
+        "new": 5700,
+        "7zf": 38.6,
+        "7df": 0,
+        "7top": 7900,
+        "7down": 5700
+      }
+    },
+    {
+      "id": "13120000334",
+      "name": "M1911 11发扩容弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000334.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 4100,
+      "dept_value": null,
+      "value": {
+        "new": 3700,
+        "7zf": 97.3,
+        "7df": -12.12,
+        "7top": 7300,
+        "7down": 3300
+      }
+    },
+    {
+      "id": "18070000033",
+      "name": "M1911",
+      "grade": "0",
+      "primary": "枪械",
+      "second": "手枪",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/18070000033.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 16900,
+      "dept_value": null,
+      "value": {
+        "new": 17000,
+        "7zf": 7.06,
+        "7df": -17.24,
+        "7top": 18200,
+        "7down": 14500
+      }
+    },
+    {
+      "id": "13020000519",
+      "name": "M1911夜鹰战术枪管",
+      "grade": "2",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000519.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 8400,
+      "dept_value": null,
+      "value": {
+        "new": 8500,
+        "7zf": 0.86,
+        "7df": -7.59,
+        "7top": 8573,
+        "7down": 7900
+      }
+    }
+  ]
+}

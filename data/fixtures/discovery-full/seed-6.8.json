@@ -1,0 +1,159 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37150300002",
+      "name": "6.8*51mm PLY-I",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37150400001",
+      "name": "6.8x51mm FMJ",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1590,
+        "7zf": 23.4,
+        "7df": -1.73,
+        "7top": 1962,
+        "7down": 1563
+      }
+    },
+    {
+      "id": "37150400002",
+      "name": "6.8*51mm PLY-II",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37150500001",
+      "name": "6.8x51mm Hybrid",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5141,
+        "7zf": 5.68,
+        "7df": -9.43,
+        "7top": 5433,
+        "7down": 4698
+      }
+    },
+    {
+      "id": "37150500002",
+      "name": "6.8*51mm PLY-III",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37150600001",
+      "name": "6.8x51mm AP",
+      "grade": "6",
+      "primary": "弹药",
+      "second": "6.8x51mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/6.8x51.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "13120000262",
+      "name": "M7 30发6.8弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000262.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 24400,
+      "dept_value": null,
+      "value": {
+        "new": 23400,
+        "7zf": 0.32,
+        "7df": 0,
+        "7top": 23476,
+        "7down": 23400
+      }
+    },
+    {
+      "id": "13120000263",
+      "name": "M7 45发6.8弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000263.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 49500,
+      "dept_value": null,
+      "value": {
+        "new": 51600,
+        "7zf": 0.04,
+        "7df": 0,
+        "7top": 51619,
+        "7down": 51600
+      }
+    }
+  ]
+}

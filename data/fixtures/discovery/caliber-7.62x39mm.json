@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37110100001",
+      "name": "7.62x39mm LP",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 41,
+        "7zf": 2.44,
+        "7df": -2.5,
+        "7top": 42,
+        "7down": 40
+      }
+    },
+    {
+      "id": "37110200001",
+      "name": "7.62x39mm T45M",
+      "grade": "2",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 109,
+        "7zf": 3.67,
+        "7df": -0.93,
+        "7top": 113,
+        "7down": 108
+      }
+    },
+    {
+      "id": "37110300001",
+      "name": "7.62x39mm PS",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 296,
+        "7zf": 96.28,
+        "7df": -0.68,
+        "7top": 581,
+        "7down": 294
+      }
+    },
+    {
+      "id": "37110400001",
+      "name": "7.62x39mm BP",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1497,
+        "7zf": 21.04,
+        "7df": -9.03,
+        "7top": 1812,
+        "7down": 1373
+      }
+    },
+    {
+      "id": "37110500001",
+      "name": "7.62x39mm AP",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x39mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/7.62x39.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4943,
+        "7zf": 1.19,
+        "7df": -6.95,
+        "7top": 5002,
+        "7down": 4622
+      }
+    }
+  ]
+}

@@ -1,0 +1,1907 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37220000001",
+      "name": ".357 Magnum 9号霰射\"鼠弹\"",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".357 Magnum",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/.357.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 237,
+        "7zf": 32.91,
+        "7df": -32.4,
+        "7top": 315,
+        "7down": 179
+      }
+    },
+    {
+      "id": "37250000001",
+      "name": "12 Gauge 8.5毫米鹿弹",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 349,
+        "7zf": 9.17,
+        "7df": -20.76,
+        "7top": 381,
+        "7down": 289
+      }
+    },
+    {
+      "id": "37250100001",
+      "name": "12 Gauge 7毫米鹿弹",
+      "grade": "1",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 22,
+        "7zf": 18.18,
+        "7df": -10,
+        "7top": 26,
+        "7down": 20
+      }
+    },
+    {
+      "id": "37250300001",
+      "name": "12 Gauge 箭形弹",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 378,
+        "7zf": 46.03,
+        "7df": -17.03,
+        "7top": 552,
+        "7down": 323
+      }
+    },
+    {
+      "id": "37250400003",
+      "name": "12 Gauge 龙息弹",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12 Gauge",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12-Gauge.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1528,
+        "7zf": 41.23,
+        "7df": -2.07,
+        "7top": 2158,
+        "7down": 1497
+      }
+    },
+    {
+      "id": "37160400002",
+      "name": "12.7x55mm PD12双头弹",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 2916,
+        "7zf": 21.84,
+        "7df": -2.53,
+        "7top": 3553,
+        "7down": 2844
+      }
+    },
+    {
+      "id": "13530000001",
+      "name": "杠杆式步枪子弹袋",
+      "grade": "2",
+      "primary": "配件",
+      "second": "功能性配件",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13530000001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 6300,
+      "dept_value": null,
+      "value": {
+        "new": 5800,
+        "7zf": 4.93,
+        "7df": 0,
+        "7top": 6086,
+        "7down": 5800
+      }
+    },
+    {
+      "id": "11010002004",
+      "name": "MC防弹头盔",
+      "grade": "2",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010002004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 10900,
+      "dept_value": null,
+      "value": {
+        "new": 10900,
+        "7zf": 5.49,
+        "7df": -4.81,
+        "7top": 11498,
+        "7down": 10400
+      }
+    },
+    {
+      "id": "11010003003",
+      "name": "DAS 防弹头盔",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003003.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 37900,
+      "dept_value": null,
+      "value": {
+        "new": 39500,
+        "7zf": 7.09,
+        "7df": -21.91,
+        "7top": 42300,
+        "7down": 32400
+      }
+    },
+    {
+      "id": "11010005011",
+      "name": "赤枭装甲防弹面具",
+      "grade": "5",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010005011.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "1101000200401",
+      "name": "MC防弹头盔（几乎全新）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010002004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 9300,
+      "dept_value": null,
+      "value": {
+        "new": 9300,
+        "7zf": 4.3,
+        "7df": -22.37,
+        "7top": 9700,
+        "7down": 7600
+      }
+    },
+    {
+      "id": "1101000200402",
+      "name": "MC防弹头盔（破损）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010002004.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 7600,
+      "dept_value": null,
+      "value": {
+        "new": 7600,
+        "7zf": 5.26,
+        "7df": 0,
+        "7top": 8000,
+        "7down": 7600
+      }
+    },
+    {
+      "id": "1101000300301",
+      "name": "DAS 防弹头盔（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003003.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 30500,
+      "dept_value": null,
+      "value": {
+        "new": 27500,
+        "7zf": 13.09,
+        "7df": -35.47,
+        "7top": 31100,
+        "7down": 20300
+      }
+    },
+    {
+      "id": "1101000300302",
+      "name": "DAS 防弹头盔（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010003003.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 23800,
+      "dept_value": null,
+      "value": {
+        "new": 25600,
+        "7zf": 3.91,
+        "7df": -3.64,
+        "7top": 26600,
+        "7down": 24700
+      }
+    },
+    {
+      "id": "13120000030",
+      "name": "5.56*45 30发聚合物弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000030.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 6100,
+      "dept_value": null,
+      "value": {
+        "new": 6400,
+        "7zf": 10.94,
+        "7df": -20.75,
+        "7top": 7100,
+        "7down": 5300
+      }
+    },
+    {
+      "id": "13120000035",
+      "name": "Mini-14 20发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000035.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 6400,
+      "dept_value": null,
+      "value": {
+        "new": 6500,
+        "7zf": 15.38,
+        "7df": 0,
+        "7top": 7500,
+        "7down": 6500
+      }
+    },
+    {
+      "id": "13120000049",
+      "name": "M14 30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000049.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 55000,
+      "dept_value": null,
+      "value": {
+        "new": 58800,
+        "7zf": 31.97,
+        "7df": -76.05,
+        "7top": 77600,
+        "7down": 33400
+      }
+    },
+    {
+      "id": "13120000053",
+      "name": "M14 50发弹鼓",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000053.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 176500,
+      "dept_value": null,
+      "value": {
+        "new": 195200,
+        "7zf": 2.72,
+        "7df": -279.03,
+        "7top": 200500,
+        "7down": 51500
+      }
+    },
+    {
+      "id": "13120000054",
+      "name": "G3 50发弹鼓",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000054.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 21100,
+      "dept_value": null,
+      "value": {
+        "new": 21500,
+        "7zf": 0.14,
+        "7df": -3.86,
+        "7top": 21531,
+        "7down": 20700
+      }
+    },
+    {
+      "id": "13120000150",
+      "name": "SR25 20发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000150.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 37500,
+      "dept_value": null,
+      "value": {
+        "new": 42300,
+        "7zf": 20.57,
+        "7df": -69.2,
+        "7top": 51000,
+        "7down": 25000
+      }
+    },
+    {
+      "id": "13120000173",
+      "name": "G3 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000173.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 18400,
+      "dept_value": null,
+      "value": {
+        "new": 18500,
+        "7zf": 23.24,
+        "7df": -31.21,
+        "7top": 22800,
+        "7down": 14100
+      }
+    },
+    {
+      "id": "13120000174",
+      "name": "SCARH 50发弹鼓",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000174.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 35900,
+      "dept_value": null,
+      "value": {
+        "new": 37000,
+        "7zf": 0.18,
+        "7df": -11.45,
+        "7top": 37066,
+        "7down": 33200
+      }
+    },
+    {
+      "id": "13120000234",
+      "name": "M4扩容45发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000234.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 23700,
+      "dept_value": null,
+      "value": {
+        "new": 24900,
+        "7zf": 0.22,
+        "7df": -52.76,
+        "7top": 24956,
+        "7down": 16300
+      }
+    },
+    {
+      "id": "13120000235",
+      "name": "M4弹鼓60发",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000235.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 35800,
+      "dept_value": null,
+      "value": {
+        "new": 37000,
+        "7zf": 0.14,
+        "7df": -26.28,
+        "7top": 37050,
+        "7down": 29300
+      }
+    },
+    {
+      "id": "13120000240",
+      "name": "AK762弹匣30发（木色）",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000240.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 7100,
+      "dept_value": null,
+      "value": {
+        "new": 7200,
+        "7zf": 1.06,
+        "7df": 0,
+        "7top": 7276,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000241",
+      "name": "AKM大弹鼓70发",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000241.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 36300,
+      "dept_value": null,
+      "value": {
+        "new": 37000,
+        "7zf": 0.26,
+        "7df": -11.45,
+        "7top": 37096,
+        "7down": 33200
+      }
+    },
+    {
+      "id": "13120000243",
+      "name": "AK545口径30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000243.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 2.69,
+        "7df": -18.54,
+        "7top": 3697,
+        "7down": 3037
+      }
+    },
+    {
+      "id": "13120000245",
+      "name": "AKS-74U延长弹匣45发",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000245.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 24000,
+      "dept_value": null,
+      "value": {
+        "new": 24900,
+        "7zf": 0.05,
+        "7df": 0,
+        "7top": 24913,
+        "7down": 24900
+      }
+    },
+    {
+      "id": "13120000246",
+      "name": "AK12聚合物30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000246.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3500,
+        "7zf": 22.86,
+        "7df": -6.06,
+        "7top": 4300,
+        "7down": 3300
+      }
+    },
+    {
+      "id": "13120000247",
+      "name": "AKS-74U聚合物弹鼓75发",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000247.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 35000,
+      "dept_value": null,
+      "value": {
+        "new": 30700,
+        "7zf": 20.85,
+        "7df": -41.47,
+        "7top": 37100,
+        "7down": 21700
+      }
+    },
+    {
+      "id": "13120000249",
+      "name": "M14 20发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000249.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 22700,
+      "dept_value": null,
+      "value": {
+        "new": 23300,
+        "7zf": 0.38,
+        "7df": -9.39,
+        "7top": 23389,
+        "7down": 21300
+      }
+    },
+    {
+      "id": "13120000250",
+      "name": "SCARH 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000250.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 50000,
+      "dept_value": null,
+      "value": {
+        "new": 58600,
+        "7zf": 11.43,
+        "7df": -63.23,
+        "7top": 65300,
+        "7down": 35900
+      }
+    },
+    {
+      "id": "13120000253",
+      "name": "VSS30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000253.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 19900,
+      "dept_value": null,
+      "value": {
+        "new": 20400,
+        "7zf": 13.73,
+        "7df": -10.87,
+        "7top": 23200,
+        "7down": 18400
+      }
+    },
+    {
+      "id": "13120000254",
+      "name": "VSS 45发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000254.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 84300,
+      "dept_value": null,
+      "value": {
+        "new": 83500,
+        "7zf": 40.48,
+        "7df": -51.82,
+        "7top": 117300,
+        "7down": 55000
+      }
+    },
+    {
+      "id": "13120000258",
+      "name": "5.8新式60发弹鼓",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000258.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 49500,
+      "dept_value": null,
+      "value": {
+        "new": 53600,
+        "7zf": 19.96,
+        "7df": -58.58,
+        "7top": 64300,
+        "7down": 33800
+      }
+    },
+    {
+      "id": "13120000260",
+      "name": "ASh-12扩容30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000260.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 48900,
+      "dept_value": null,
+      "value": {
+        "new": 51700,
+        "7zf": 0.12,
+        "7df": -3.61,
+        "7top": 51763,
+        "7down": 49900
+      }
+    },
+    {
+      "id": "13120000262",
+      "name": "M7 30发6.8弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000262.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 24400,
+      "dept_value": null,
+      "value": {
+        "new": 23400,
+        "7zf": 0.32,
+        "7df": 0,
+        "7top": 23476,
+        "7down": 23400
+      }
+    },
+    {
+      "id": "13120000263",
+      "name": "M7 45发6.8弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000263.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 49500,
+      "dept_value": null,
+      "value": {
+        "new": 51600,
+        "7zf": 0.04,
+        "7df": 0,
+        "7top": 51619,
+        "7down": 51600
+      }
+    },
+    {
+      "id": "13120000267",
+      "name": "Mini-14 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000267.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 44500,
+      "dept_value": null,
+      "value": {
+        "new": 34400,
+        "7zf": 69.77,
+        "7df": -24.64,
+        "7top": 58400,
+        "7down": 27600
+      }
+    },
+    {
+      "id": "13120000271",
+      "name": "Vector扩容30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000271.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 15400,
+      "dept_value": null,
+      "value": {
+        "new": 15700,
+        "7zf": 0.01,
+        "7df": -0.64,
+        "7top": 15702,
+        "7down": 15600
+      }
+    },
+    {
+      "id": "13120000272",
+      "name": "Vector扩容40发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000272.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 23000,
+      "dept_value": null,
+      "value": {
+        "new": 24000,
+        "7zf": 0.33,
+        "7df": -28.34,
+        "7top": 24079,
+        "7down": 18700
+      }
+    },
+    {
+      "id": "13120000277",
+      "name": "MP5 50发弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000277.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 45000,
+      "dept_value": null,
+      "value": {
+        "new": 40700,
+        "7zf": 26.29,
+        "7df": -76.96,
+        "7top": 51400,
+        "7down": 23000
+      }
+    },
+    {
+      "id": "13120000279",
+      "name": "UZI 35发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000279.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 5000,
+      "dept_value": null,
+      "value": {
+        "new": 5200,
+        "7zf": 1.54,
+        "7df": -15.56,
+        "7top": 5280,
+        "7down": 4500
+      }
+    },
+    {
+      "id": "13120000280",
+      "name": "UZI 45发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000280.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 12800,
+      "dept_value": null,
+      "value": {
+        "new": 13900,
+        "7zf": 4.86,
+        "7df": -93.06,
+        "7top": 14575,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000282",
+      "name": "野牛 64发弹筒",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000282.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 9200,
+      "dept_value": null,
+      "value": {
+        "new": 8700,
+        "7zf": 25.29,
+        "7df": -26.09,
+        "7top": 10900,
+        "7down": 6900
+      }
+    },
+    {
+      "id": "13120000286",
+      "name": "M700 10发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000286.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 14700,
+      "dept_value": null,
+      "value": {
+        "new": 15400,
+        "7zf": 24.68,
+        "7df": -9.22,
+        "7top": 19200,
+        "7down": 14100
+      }
+    },
+    {
+      "id": "13120000289",
+      "name": "S12K扩容10发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000289.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 5900,
+      "dept_value": null,
+      "value": {
+        "new": 6100,
+        "7zf": 137.7,
+        "7df": -5.17,
+        "7top": 14500,
+        "7down": 5800
+      }
+    },
+    {
+      "id": "13120000291",
+      "name": "S12K扩容24发弹鼓",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000291.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 47800,
+      "dept_value": null,
+      "value": {
+        "new": 50600,
+        "7zf": 7.04,
+        "7df": -69.8,
+        "7top": 54161,
+        "7down": 29800
+      }
+    },
+    {
+      "id": "13120000293",
+      "name": "G系手枪25发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000293.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3900,
+      "dept_value": null,
+      "value": {
+        "new": 3700,
+        "7zf": 40.54,
+        "7df": -5.71,
+        "7top": 5200,
+        "7down": 3500
+      }
+    },
+    {
+      "id": "13120000294",
+      "name": "G系手枪33发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000294.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 11700,
+      "dept_value": null,
+      "value": {
+        "new": 13100,
+        "7zf": 2.29,
+        "7df": -61.73,
+        "7top": 13400,
+        "7down": 8100
+      }
+    },
+    {
+      "id": "13120000296",
+      "name": "沙鹰13发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000296.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 4600,
+      "dept_value": null,
+      "value": {
+        "new": 4400,
+        "7zf": 27.27,
+        "7df": -7.32,
+        "7top": 5600,
+        "7down": 4100
+      }
+    },
+    {
+      "id": "13120000298",
+      "name": "93R 18发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000298.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 4300,
+      "dept_value": null,
+      "value": {
+        "new": 4900,
+        "7zf": 63.27,
+        "7df": -8.89,
+        "7top": 8000,
+        "7down": 4500
+      }
+    },
+    {
+      "id": "13120000299",
+      "name": "93R 24发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000299.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 6800,
+      "dept_value": null,
+      "value": {
+        "new": 6900,
+        "7zf": 15.94,
+        "7df": -11.29,
+        "7top": 8000,
+        "7down": 6200
+      }
+    },
+    {
+      "id": "13120000300",
+      "name": "SVD 20发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000300.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 21900,
+      "dept_value": null,
+      "value": {
+        "new": 22500,
+        "7zf": 0.19,
+        "7df": 0,
+        "7top": 22542,
+        "7down": 22500
+      }
+    },
+    {
+      "id": "13120000301",
+      "name": "PKM扩容弹箱",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000301.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 32400,
+      "dept_value": null,
+      "value": {
+        "new": 30600,
+        "7zf": 21.19,
+        "7df": -84.34,
+        "7top": 37084,
+        "7down": 16600
+      }
+    },
+    {
+      "id": "13120000307",
+      "name": "勇士45发扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000307.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 20700,
+      "dept_value": null,
+      "value": {
+        "new": 21500,
+        "7zf": 0.27,
+        "7df": -97.25,
+        "7top": 21558,
+        "7down": 10900
+      }
+    },
+    {
+      "id": "13120000313",
+      "name": "AKM30发聚合物弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000313.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3500,
+        "7zf": 42.86,
+        "7df": 0,
+        "7top": 5000,
+        "7down": 3500
+      }
+    },
+    {
+      "id": "13120000314",
+      "name": "R93 15发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000314.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 18200,
+      "dept_value": null,
+      "value": {
+        "new": 17900,
+        "7zf": 21.23,
+        "7df": -7.83,
+        "7top": 21700,
+        "7down": 16600
+      }
+    },
+    {
+      "id": "13120000315",
+      "name": "SG552 30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000315.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3500,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 33.33,
+        "7df": -33.33,
+        "7top": 4800,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000317",
+      "name": "SG552 45发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000317.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 39200,
+      "dept_value": null,
+      "value": {
+        "new": 36300,
+        "7zf": 56.75,
+        "7df": -61.33,
+        "7top": 56900,
+        "7down": 22500
+      }
+    },
+    {
+      "id": "13120000318",
+      "name": "SMG45 40发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000318.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 36100,
+      "dept_value": null,
+      "value": {
+        "new": 34600,
+        "7zf": 50,
+        "7df": -61.68,
+        "7top": 51900,
+        "7down": 21400
+      }
+    },
+    {
+      "id": "13120000319",
+      "name": "MP7 30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000319.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 15300,
+      "dept_value": null,
+      "value": {
+        "new": 15600,
+        "7zf": 0.65,
+        "7df": 0,
+        "7top": 15702,
+        "7down": 15600
+      }
+    },
+    {
+      "id": "13120000320",
+      "name": "MP7 40发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000320.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 33700,
+      "dept_value": null,
+      "value": {
+        "new": 34800,
+        "7zf": 0.1,
+        "7df": -4.19,
+        "7top": 34835,
+        "7down": 33400
+      }
+    },
+    {
+      "id": "13120000321",
+      "name": "MP7 60发弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000321.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 49200,
+      "dept_value": null,
+      "value": {
+        "new": 51500,
+        "7zf": 0.08,
+        "7df": -11.47,
+        "7top": 51543,
+        "7down": 46200
+      }
+    },
+    {
+      "id": "13120000327",
+      "name": "AKS74U 30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000327.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3300,
+      "dept_value": null,
+      "value": {
+        "new": 2800,
+        "7zf": 25,
+        "7df": -3.7,
+        "7top": 3500,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000329",
+      "name": "5.8新式30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000329.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 7100,
+      "dept_value": null,
+      "value": {
+        "new": 7200,
+        "7zf": 1.06,
+        "7df": 0,
+        "7top": 7276,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000330",
+      "name": "PSG 20发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000330.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 21900,
+      "dept_value": null,
+      "value": {
+        "new": 22500,
+        "7zf": 0.19,
+        "7df": -8.17,
+        "7top": 22542,
+        "7down": 20800
+      }
+    },
+    {
+      "id": "13120000331",
+      "name": "SR25 30发扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000331.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 57500,
+      "dept_value": null,
+      "value": {
+        "new": 95800,
+        "7zf": 5.53,
+        "7df": -86.38,
+        "7top": 101100,
+        "7down": 51400
+      }
+    },
+    {
+      "id": "13120000332",
+      "name": "M250 75发弹链",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000332.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 49500,
+      "dept_value": null,
+      "value": {
+        "new": 51500,
+        "7zf": 0.05,
+        "7df": 0,
+        "7top": 51527,
+        "7down": 51500
+      }
+    },
+    {
+      "id": "13120000333",
+      "name": "AR 60发扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000333.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 49100,
+      "dept_value": null,
+      "value": {
+        "new": 49600,
+        "7zf": 3.73,
+        "7df": -21.87,
+        "7top": 51449,
+        "7down": 40700
+      }
+    },
+    {
+      "id": "13120000334",
+      "name": "M1911 11发扩容弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000334.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 4100,
+      "dept_value": null,
+      "value": {
+        "new": 3700,
+        "7zf": 97.3,
+        "7df": -12.12,
+        "7top": 7300,
+        "7down": 3300
+      }
+    },
+    {
+      "id": "13120000340",
+      "name": "霰弹快速装填器",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000340.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 7300,
+      "dept_value": null,
+      "value": {
+        "new": 7500,
+        "7zf": 0.84,
+        "7df": -4.17,
+        "7top": 7563,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000341",
+      "name": "新式45发扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000341.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 40300,
+      "dept_value": null,
+      "value": {
+        "new": 37300,
+        "7zf": 49.06,
+        "7df": -50.4,
+        "7top": 55600,
+        "7down": 24800
+      }
+    },
+    {
+      "id": "13120000342",
+      "name": "AR聚合物30发 弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000342.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 6000,
+      "dept_value": null,
+      "value": {
+        "new": 6600,
+        "7zf": 10.61,
+        "7df": -26.92,
+        "7top": 7300,
+        "7down": 5200
+      }
+    },
+    {
+      "id": "13120000343",
+      "name": "5.8新式45发 扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000343.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 33500,
+      "dept_value": null,
+      "value": {
+        "new": 35300,
+        "7zf": 14.16,
+        "7df": -72.2,
+        "7top": 40300,
+        "7down": 20500
+      }
+    },
+    {
+      "id": "13120000345",
+      "name": "45发 K437扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000345.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 48400,
+      "dept_value": null,
+      "value": {
+        "new": 51300,
+        "7zf": 0.19,
+        "7df": -11.52,
+        "7top": 51400,
+        "7down": 46000
+      }
+    },
+    {
+      "id": "13120000348",
+      "name": "K437 60发弹鼓",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000348.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 22400,
+      "dept_value": null,
+      "value": {
+        "new": 23000,
+        "7zf": 7.83,
+        "7df": -18.56,
+        "7top": 24800,
+        "7down": 19400
+      }
+    },
+    {
+      "id": "13120000359",
+      "name": "MK4730发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000359.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 38100,
+      "dept_value": null,
+      "value": {
+        "new": 28300,
+        "7zf": 81.63,
+        "7df": -33.49,
+        "7top": 51400,
+        "7down": 21200
+      }
+    },
+    {
+      "id": "13120000361",
+      "name": "MK4 48发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000361.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 33500,
+      "dept_value": null,
+      "value": {
+        "new": 39100,
+        "7zf": 12.04,
+        "7df": -30.77,
+        "7top": 43806,
+        "7down": 29900
+      }
+    },
+    {
+      "id": "13120000363",
+      "name": "FS-12短弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000363.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 10400,
+      "dept_value": null,
+      "value": {
+        "new": 10500,
+        "7zf": 0.67,
+        "7df": -3.96,
+        "7top": 10570,
+        "7down": 10100
+      }
+    },
+    {
+      "id": "13120000364",
+      "name": "FS-12加长弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000364.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 15600,
+      "dept_value": null,
+      "value": {
+        "new": 15600,
+        "7zf": 0.58,
+        "7df": -8.33,
+        "7top": 15691,
+        "7down": 14400
+      }
+    },
+    {
+      "id": "13120000365",
+      "name": "FS-12扩容弹鼓",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000365.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 35700,
+      "dept_value": null,
+      "value": {
+        "new": 32100,
+        "7zf": 87.85,
+        "7df": -42.67,
+        "7top": 60300,
+        "7down": 22500
+      }
+    },
+    {
+      "id": "13120000371",
+      "name": "M82扩容弹鼓",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000371.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 38900,
+      "dept_value": null,
+      "value": {
+        "new": 39000,
+        "7zf": 31.79,
+        "7df": -83.96,
+        "7top": 51400,
+        "7down": 21200
+      }
+    },
+    {
+      "id": "13120000372",
+      "name": "AUG45发扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000372.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 36100,
+      "dept_value": null,
+      "value": {
+        "new": 37000,
+        "7zf": 0.12,
+        "7df": -3.64,
+        "7top": 37046,
+        "7down": 35700
+      }
+    },
+    {
+      "id": "13120000378",
+      "name": "SVCH扩容弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000378.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 21000,
+      "dept_value": null,
+      "value": {
+        "new": 34600,
+        "7zf": 464.16,
+        "7df": -104.44,
+        "7top": 195200,
+        "7down": 16924
+      }
+    },
+    {
+      "id": "13120000379",
+      "name": "SVCH凌风并联弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000379.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 48800,
+      "dept_value": null,
+      "value": {
+        "new": 51400,
+        "7zf": 65.95,
+        "7df": -197.78,
+        "7top": 85300,
+        "7down": 17261
+      }
+    },
+    {
+      "id": "13120000389",
+      "name": "汤姆逊加长弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000389.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 90524,
+      "dept_value": null,
+      "value": {
+        "new": 110911,
+        "7zf": 8.22,
+        "7df": -32.75,
+        "7top": 120031,
+        "7down": 83551
+      }
+    },
+    {
+      "id": "13120000392",
+      "name": "MDR.308扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000392.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 32690,
+      "dept_value": null,
+      "value": {
+        "new": 33819,
+        "7zf": 5.26,
+        "7df": -35.72,
+        "7top": 35599,
+        "7down": 24919
+      }
+    },
+    {
+      "id": "13120000380",
+      "name": "HVK风怒供弹套件",
+      "grade": "4",
+      "primary": "配件",
+      "second": "护木",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000380.png",
+      "length": "3",
+      "width": "1",
+      "combat_value": 49414,
+      "dept_value": null,
+      "value": {
+        "new": 36423,
+        "7zf": 52.71,
+        "7df": -35.79,
+        "7top": 55623,
+        "7down": 26823
+      }
+    },
+    {
+      "id": "11050001002",
+      "name": "安保防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2200,
+      "dept_value": null,
+      "value": {
+        "new": 6900,
+        "7zf": 4.35,
+        "7df": -213.64,
+        "7top": 7200,
+        "7down": 2200
+      }
+    },
+    {
+      "id": "11050001003",
+      "name": "尼龙防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2900,
+      "dept_value": null,
+      "value": {
+        "new": 8700,
+        "7zf": 4.6,
+        "7df": -200,
+        "7top": 9100,
+        "7down": 2900
+      }
+    },
+    {
+      "id": "11050001004",
+      "name": "轻型防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 3600,
+      "dept_value": null,
+      "value": {
+        "new": 10900,
+        "7zf": 0,
+        "7df": -194.59,
+        "7top": 10900,
+        "7down": 3700
+      }
+    },
+    {
+      "id": "11050002003",
+      "name": "TG战术防弹衣",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 10400,
+      "dept_value": null,
+      "value": {
+        "new": 36400,
+        "7zf": 10.44,
+        "7df": -267.68,
+        "7top": 40200,
+        "7down": 9900
+      }
+    },
+    {
+      "id": "11050003001",
+      "name": "制式防弹背心",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 33300,
+      "dept_value": null,
+      "value": {
+        "new": 33500,
+        "7zf": 20,
+        "7df": -15.52,
+        "7top": 40200,
+        "7down": 29000
+      }
+    },
+    {
+      "id": "11050003002",
+      "name": "Hvk快拆防弹衣",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 33100,
+      "dept_value": null,
+      "value": {
+        "new": 36400,
+        "7zf": 10.44,
+        "7df": -26.39,
+        "7top": 40200,
+        "7down": 28800
+      }
+    },
+    {
+      "id": "11050003003",
+      "name": "TG-H防弹衣",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 47000,
+      "dept_value": null,
+      "value": {
+        "new": 48300,
+        "7zf": 10.35,
+        "7df": -26.11,
+        "7top": 53300,
+        "7down": 38300
+      }
+    },
+    {
+      "id": "11050004001",
+      "name": "武士防弹背心",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 95800,
+      "dept_value": null,
+      "value": {
+        "new": 106200,
+        "7zf": 28.25,
+        "7df": -50,
+        "7top": 136200,
+        "7down": 70800
+      }
+    },
+    {
+      "id": "11050004002",
+      "name": "突击手防弹背心",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004002.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 141800,
+      "dept_value": null,
+      "value": {
+        "new": 141900,
+        "7zf": 22.48,
+        "7df": -48.28,
+        "7top": 173800,
+        "7down": 95700
+      }
+    },
+    {
+      "id": "11050004003",
+      "name": "DT-AVS防弹衣",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 162200,
+      "dept_value": null,
+      "value": {
+        "new": 160700,
+        "7zf": 24.39,
+        "7df": -32.26,
+        "7top": 199900,
+        "7down": 121500
+      }
+    },
+    {
+      "id": "11050004007",
+      "name": "HMP特勤防弹衣",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004007.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 123000,
+      "dept_value": null,
+      "value": {
+        "new": 125200,
+        "7zf": 37.54,
+        "7df": -26.34,
+        "7top": 172200,
+        "7down": 99100
+      }
+    }
+  ]
+}

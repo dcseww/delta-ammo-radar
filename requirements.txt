@@ -1,0 +1,32 @@
+# 三角洲行动 · 子弹物价实时监控系统 —— Python 依赖
+#
+# 安装（Windows，使用 DSH 运行时自带的 Python）：
+#   & "C:\Users\cth\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\python\python.exe" -m pip install -r requirements.txt
+#
+# 说明：刻意保持依赖精简。自用单机项目不需要 Docker / Redis / PostgreSQL / 任务队列。
+
+# ── Web 服务 ────────────────────────────────────────────────────────────
+fastapi>=0.115          # REST + WebSocket，自带 OpenAPI 文档
+uvicorn[standard]>=0.32 # ASGI 服务器
+pydantic>=2.9           # 出参模型与校验
+pydantic-settings>=2.6  # .env 配置读取
+
+# ── 数据层 ──────────────────────────────────────────────────────────────
+SQLAlchemy>=2.0         # ORM；表结构见开发文档第 5 章
+
+# ── 采集 ────────────────────────────────────────────────────────────────
+httpx>=0.27             # 异步 HTTP，超时/重试语义清晰
+APScheduler>=3.10       # 进程内定时调度，无需额外服务
+
+# ── 解析（公开页面只读解析路线）────────────────────────────────────────
+lxml>=5.3               # HTML/XML 解析
+beautifulsoup4>=4.12    # lxml 之上的友好选择器
+PyYAML>=6.0             # 读取 ammo_catalog.yaml
+
+# ── 通知 ────────────────────────────────────────────────────────────────
+plyer>=2.1              # 跨平台桌面通知（Windows 托盘弹窗）
+# 邮件通道用标准库 smtplib，无需依赖
+
+# ── 开发与测试 ──────────────────────────────────────────────────────────
+pytest>=8.3
+pytest-asyncio>=0.24

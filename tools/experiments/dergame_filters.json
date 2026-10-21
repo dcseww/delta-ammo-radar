@@ -1,0 +1,17 @@
+{
+  "name": "dergame /api/Items/search 过滤参数语义探测",
+  "url": "https://dergame.cn/api/Items/search",
+  "list_path": "data",
+  "delay_seconds": 1.5,
+  "timeout_seconds": 25,
+  "rounds": [
+    { "label": "R01-grade-int-6", "payload": { "grade": [6] } },
+    { "label": "R02-grade-int-1", "payload": { "grade": [1] } },
+    { "label": "R03-grade-str-6-single", "payload": { "grade": "6" } },
+    { "label": "R04-grade-int-all", "payload": { "grade": [1, 2, 3, 4, 5, 6] } },
+    { "label": "R05-type-ammo-grade-int6", "payload": { "type": ["弹药"], "grade": [6] } },
+    { "label": "R06-type-ammo-only", "payload": { "type": ["弹药"] } },
+    { "label": "R07-type-armor", "payload": { "type": ["护甲"] } },
+    { "label": "R08-empty-baseline", "payload": {} }
+  ]
+}

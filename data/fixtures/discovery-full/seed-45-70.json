@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37290300001",
+      "name": "45-70 Govt RN",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".45-70mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37290300001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 514,
+        "7zf": 69.26,
+        "7df": 0,
+        "7top": 870,
+        "7down": 514
+      }
+    },
+    {
+      "id": "37290400001",
+      "name": "45-70 Govt FMJ",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".45-70mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37290400001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 955,
+        "7zf": 41.47,
+        "7df": -5.29,
+        "7top": 1351,
+        "7down": 907
+      }
+    },
+    {
+      "id": "37290500001",
+      "name": "45-70 Govt FTX",
+      "grade": "5",
+      "primary": "弹药",
+      "second": ".45-70mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/37290500001.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 955,
+        "7zf": 41.47,
+        "7df": -5.29,
+        "7top": 1351,
+        "7down": 907
+      }
+    }
+  ]
+}

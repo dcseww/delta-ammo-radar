@@ -1,0 +1,264 @@
+{
+  "spec_name": "dergame name/type 过滤语义精确探测（含单参对照）",
+  "url": "https://dergame.cn/api/Items/search",
+  "total_unique_names": 105,
+  "rounds": [
+    {
+      "round": 1,
+      "label": "S01-name-only-762x35mm",
+      "payload": {
+        "name": "7.62x35mm"
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {},
+      "new_names": 0
+    },
+    {
+      "round": 2,
+      "label": "S02-name-only-5-56x45mm",
+      "payload": {
+        "name": "5.56x45mm"
+      },
+      "status": 200,
+      "count": 5,
+      "unique_names": 5,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "弹药": 5
+      },
+      "grade_dist": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0
+      },
+      "new_names": 5
+    },
+    {
+      "round": 3,
+      "label": "S03-name-only-556-upper",
+      "payload": {
+        "name": "5.56"
+      },
+      "status": 200,
+      "count": 9,
+      "unique_names": 9,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "弹药": 7,
+        "配件": 2
+      },
+      "grade_dist": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 2,
+        "5": 1
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 5
+      },
+      "new_names": 4
+    },
+    {
+      "round": 4,
+      "label": "S04-name-only-Lap-Mag",
+      "payload": {
+        "name": "Lap Mag"
+      },
+      "status": 200,
+      "count": 1,
+      "unique_names": 1,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "弹药": 1
+      },
+      "grade_dist": {
+        "6": 1
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 0,
+        "S03-name-only-556-upper": 0
+      },
+      "new_names": 1
+    },
+    {
+      "round": 5,
+      "label": "S05-name-only-hyphen-45-70",
+      "payload": {
+        "name": ".45-70mm"
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 0,
+        "S03-name-only-556-upper": 0,
+        "S04-name-only-Lap-Mag": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 6,
+      "label": "S06-name-only-4570",
+      "payload": {
+        "name": ".45-70"
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 0,
+        "S03-name-only-556-upper": 0,
+        "S04-name-only-Lap-Mag": 0,
+        "S05-name-only-hyphen-45-70": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 7,
+      "label": "S07-type-ammo-name-762x35",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "7.62x35mm"
+      },
+      "status": 200,
+      "count": 0,
+      "unique_names": 0,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {},
+      "grade_dist": {},
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 0,
+        "S03-name-only-556-upper": 0,
+        "S04-name-only-Lap-Mag": 0,
+        "S05-name-only-hyphen-45-70": 0,
+        "S06-name-only-4570": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 8,
+      "label": "S08-type-ammo-name-556",
+      "payload": {
+        "type": [
+          "弹药"
+        ],
+        "name": "5.56"
+      },
+      "status": 200,
+      "count": 9,
+      "unique_names": 9,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "弹药": 7,
+        "配件": 2
+      },
+      "grade_dist": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 2,
+        "5": 1
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 5,
+        "S03-name-only-556-upper": 9,
+        "S04-name-only-Lap-Mag": 0,
+        "S05-name-only-hyphen-45-70": 0,
+        "S06-name-only-4570": 0,
+        "S07-type-ammo-name-762x35": 0
+      },
+      "new_names": 0
+    },
+    {
+      "round": 9,
+      "label": "S09-name-only-A",
+      "payload": {
+        "name": "A"
+      },
+      "status": 200,
+      "count": 100,
+      "unique_names": 99,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "配件": 38,
+        "弹药": 29,
+        "道具": 23,
+        "装备": 10
+      },
+      "grade_dist": {
+        "1": 2,
+        "2": 9,
+        "3": 28,
+        "4": 33,
+        "5": 19,
+        "6": 9
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 1,
+        "S03-name-only-556-upper": 3,
+        "S04-name-only-Lap-Mag": 1,
+        "S05-name-only-hyphen-45-70": 0,
+        "S06-name-only-4570": 0,
+        "S07-type-ammo-name-762x35": 0,
+        "S08-type-ammo-name-556": 3
+      },
+      "new_names": 95
+    },
+    {
+      "round": 10,
+      "label": "S10-name-only-M855",
+      "payload": {
+        "name": "M855"
+      },
+      "status": 200,
+      "count": 4,
+      "unique_names": 4,
+      "update_time": "2026-10-14 18:40:01",
+      "primary_dist": {
+        "弹药": 4
+      },
+      "grade_dist": {
+        "3": 2,
+        "4": 2
+      },
+      "overlap_with_previous": {
+        "S01-name-only-762x35mm": 0,
+        "S02-name-only-5-56x45mm": 2,
+        "S03-name-only-556-upper": 4,
+        "S04-name-only-Lap-Mag": 0,
+        "S05-name-only-hyphen-45-70": 0,
+        "S06-name-only-4570": 0,
+        "S07-type-ammo-name-762x35": 0,
+        "S08-type-ammo-name-556": 4,
+        "S09-name-only-A": 3
+      },
+      "new_names": 0
+    }
+  ]
+}

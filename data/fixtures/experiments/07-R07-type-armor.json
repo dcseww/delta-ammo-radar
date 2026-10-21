@@ -1,0 +1,1261 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "11050001001",
+      "name": "摩托马甲",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 1900,
+      "dept_value": null,
+      "value": {
+        "new": 2000,
+        "7zf": 90,
+        "7df": 0,
+        "7top": 3800,
+        "7down": 2000
+      }
+    },
+    {
+      "id": "11050001002",
+      "name": "安保防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2200,
+      "dept_value": null,
+      "value": {
+        "new": 6900,
+        "7zf": 4.35,
+        "7df": -213.64,
+        "7top": 7200,
+        "7down": 2200
+      }
+    },
+    {
+      "id": "11050001003",
+      "name": "尼龙防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2900,
+      "dept_value": null,
+      "value": {
+        "new": 8700,
+        "7zf": 4.6,
+        "7df": -200,
+        "7top": 9100,
+        "7down": 2900
+      }
+    },
+    {
+      "id": "11050001004",
+      "name": "轻型防弹衣",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 3600,
+      "dept_value": null,
+      "value": {
+        "new": 10900,
+        "7zf": 0,
+        "7df": -194.59,
+        "7top": 10900,
+        "7down": 3700
+      }
+    },
+    {
+      "id": "11050002001",
+      "name": "简易防刺服",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 6300,
+      "dept_value": null,
+      "value": {
+        "new": 14500,
+        "7zf": 0,
+        "7df": -119.7,
+        "7top": 14500,
+        "7down": 6600
+      }
+    },
+    {
+      "id": "11050002002",
+      "name": "HT战术背心",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 8000,
+      "dept_value": null,
+      "value": {
+        "new": 33500,
+        "7zf": 20,
+        "7df": -303.61,
+        "7top": 40200,
+        "7down": 8300
+      }
+    },
+    {
+      "id": "11050002003",
+      "name": "TG战术防弹衣",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 10400,
+      "dept_value": null,
+      "value": {
+        "new": 36400,
+        "7zf": 10.44,
+        "7df": -267.68,
+        "7top": 40200,
+        "7down": 9900
+      }
+    },
+    {
+      "id": "11050002004",
+      "name": "通用战术背心",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 13900,
+      "dept_value": null,
+      "value": {
+        "new": 14500,
+        "7zf": 0.63,
+        "7df": -9.02,
+        "7top": 14591,
+        "7down": 13300
+      }
+    },
+    {
+      "id": "11050003001",
+      "name": "制式防弹背心",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 33300,
+      "dept_value": null,
+      "value": {
+        "new": 33500,
+        "7zf": 20,
+        "7df": -15.52,
+        "7top": 40200,
+        "7down": 29000
+      }
+    },
+    {
+      "id": "11050003002",
+      "name": "Hvk快拆防弹衣",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 33100,
+      "dept_value": null,
+      "value": {
+        "new": 36400,
+        "7zf": 10.44,
+        "7df": -26.39,
+        "7top": 40200,
+        "7down": 28800
+      }
+    },
+    {
+      "id": "11050003003",
+      "name": "TG-H防弹衣",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 47000,
+      "dept_value": null,
+      "value": {
+        "new": 48300,
+        "7zf": 10.35,
+        "7df": -26.11,
+        "7top": 53300,
+        "7down": 38300
+      }
+    },
+    {
+      "id": "11050003004",
+      "name": "射手战术背心",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 53300,
+      "dept_value": null,
+      "value": {
+        "new": 53500,
+        "7zf": 14.39,
+        "7df": -21.59,
+        "7top": 61200,
+        "7down": 44000
+      }
+    },
+    {
+      "id": "11050004001",
+      "name": "武士防弹背心",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 95800,
+      "dept_value": null,
+      "value": {
+        "new": 106200,
+        "7zf": 28.25,
+        "7df": -50,
+        "7top": 136200,
+        "7down": 70800
+      }
+    },
+    {
+      "id": "11050004002",
+      "name": "突击手防弹背心",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004002.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 141800,
+      "dept_value": null,
+      "value": {
+        "new": 141900,
+        "7zf": 22.48,
+        "7df": -48.28,
+        "7top": 173800,
+        "7down": 95700
+      }
+    },
+    {
+      "id": "11050004003",
+      "name": "DT-AVS防弹衣",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 162200,
+      "dept_value": null,
+      "value": {
+        "new": 160700,
+        "7zf": 24.39,
+        "7df": -32.26,
+        "7top": 199900,
+        "7down": 121500
+      }
+    },
+    {
+      "id": "11050004004",
+      "name": "MK-2战术背心",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 181800,
+      "dept_value": null,
+      "value": {
+        "new": 181600,
+        "7zf": 23.29,
+        "7df": -13.15,
+        "7top": 223900,
+        "7down": 160500
+      }
+    },
+    {
+      "id": "11050004007",
+      "name": "HMP特勤防弹衣",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004007.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 123000,
+      "dept_value": null,
+      "value": {
+        "new": 125200,
+        "7zf": 37.54,
+        "7df": -26.34,
+        "7top": 172200,
+        "7down": 99100
+      }
+    },
+    {
+      "id": "11050005001",
+      "name": "精英防弹背心",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005001.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 361100,
+      "dept_value": null,
+      "value": {
+        "new": 350800,
+        "7zf": 12.23,
+        "7df": -11.37,
+        "7top": 393700,
+        "7down": 315000
+      }
+    },
+    {
+      "id": "11050005002",
+      "name": "Hvk-2防弹衣",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 358000,
+      "dept_value": null,
+      "value": {
+        "new": 342700,
+        "7zf": 18.94,
+        "7df": -23.36,
+        "7top": 407600,
+        "7down": 277800
+      }
+    },
+    {
+      "id": "11050005003",
+      "name": "FS复合防弹衣",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 370500,
+      "dept_value": null,
+      "value": {
+        "new": 363300,
+        "7zf": 17.97,
+        "7df": -25.8,
+        "7top": 428600,
+        "7down": 288800
+      }
+    },
+    {
+      "id": "11050005004",
+      "name": "重型突击背心",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005004.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 451200,
+      "dept_value": null,
+      "value": {
+        "new": 463400,
+        "7zf": 11.37,
+        "7df": -18.91,
+        "7top": 516100,
+        "7down": 389700
+      }
+    },
+    {
+      "id": "11050006002",
+      "name": "HA-2防弹装甲",
+      "grade": "6",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050006002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 2522600,
+      "dept_value": null,
+      "value": {
+        "new": 5002300,
+        "7zf": 1.69,
+        "7df": -854.94,
+        "7top": 5086800,
+        "7down": 523836
+      }
+    },
+    {
+      "id": "1105000100101",
+      "name": "摩托马甲（几乎全新）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 1600,
+      "dept_value": null,
+      "value": {
+        "new": 1700,
+        "7zf": 88.24,
+        "7df": -6.25,
+        "7top": 3200,
+        "7down": 1600
+      }
+    },
+    {
+      "id": "1105000100102",
+      "name": "摩托马甲（破损）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 1300,
+      "dept_value": null,
+      "value": {
+        "new": 1400,
+        "7zf": 92.86,
+        "7df": -7.69,
+        "7top": 2700,
+        "7down": 1300
+      }
+    },
+    {
+      "id": "1105000100201",
+      "name": "安保防弹衣（几乎全新）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 1900,
+      "dept_value": null,
+      "value": {
+        "new": 5600,
+        "7zf": 0,
+        "7df": -194.74,
+        "7top": 5600,
+        "7down": 1900
+      }
+    },
+    {
+      "id": "1105000100202",
+      "name": "安保防弹衣（破损）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 1500,
+      "dept_value": null,
+      "value": {
+        "new": 1600,
+        "7zf": 187.5,
+        "7df": -6.67,
+        "7top": 4600,
+        "7down": 1500
+      }
+    },
+    {
+      "id": "1105000100301",
+      "name": "尼龙防弹衣（几乎全新）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2400,
+      "dept_value": null,
+      "value": {
+        "new": 6800,
+        "7zf": 4.41,
+        "7df": -172,
+        "7top": 7100,
+        "7down": 2500
+      }
+    },
+    {
+      "id": "1105000100302",
+      "name": "尼龙防弹衣（破损）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2000,
+      "dept_value": null,
+      "value": {
+        "new": 2100,
+        "7zf": 176.19,
+        "7df": -5,
+        "7top": 5800,
+        "7down": 2000
+      }
+    },
+    {
+      "id": "1105000100401",
+      "name": "轻型防弹衣（几乎全新）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 3000,
+      "dept_value": null,
+      "value": {
+        "new": 8800,
+        "7zf": 4.55,
+        "7df": -183.87,
+        "7top": 9200,
+        "7down": 3100
+      }
+    },
+    {
+      "id": "1105000100402",
+      "name": "轻型防弹衣（破损）",
+      "grade": "1",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050001004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 2500,
+      "dept_value": null,
+      "value": {
+        "new": 7600,
+        "7zf": 0,
+        "7df": -204,
+        "7top": 7600,
+        "7down": 2500
+      }
+    },
+    {
+      "id": "1105000200101",
+      "name": "简易防刺服（几乎全新）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 5200,
+      "dept_value": null,
+      "value": {
+        "new": 12400,
+        "7zf": 0,
+        "7df": -129.63,
+        "7top": 12400,
+        "7down": 5400
+      }
+    },
+    {
+      "id": "1105000200102",
+      "name": "简易防刺服（破损）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 4400,
+      "dept_value": null,
+      "value": {
+        "new": 10200,
+        "7zf": 0,
+        "7df": -155,
+        "7top": 10200,
+        "7down": 4000
+      }
+    },
+    {
+      "id": "1105000200201",
+      "name": "HT战术背心（几乎全新）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 6600,
+      "dept_value": null,
+      "value": {
+        "new": 25700,
+        "7zf": 3.5,
+        "7df": -314.52,
+        "7top": 26600,
+        "7down": 6200
+      }
+    },
+    {
+      "id": "1105000200202",
+      "name": "HT战术背心（破损）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 5500,
+      "dept_value": null,
+      "value": {
+        "new": 21100,
+        "7zf": 7.58,
+        "7df": -390.7,
+        "7top": 22700,
+        "7down": 4300
+      }
+    },
+    {
+      "id": "1105000200301",
+      "name": "TG战术防弹衣（几乎全新）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 8800,
+      "dept_value": null,
+      "value": {
+        "new": 27700,
+        "7zf": 3.97,
+        "7df": -246.25,
+        "7top": 28800,
+        "7down": 8000
+      }
+    },
+    {
+      "id": "1105000200302",
+      "name": "TG战术防弹衣（破损）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002003.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 7300,
+      "dept_value": null,
+      "value": {
+        "new": 23700,
+        "7zf": 3.8,
+        "7df": -224.66,
+        "7top": 24600,
+        "7down": 7300
+      }
+    },
+    {
+      "id": "1105000200401",
+      "name": "通用战术背心（几乎全新）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 11700,
+      "dept_value": null,
+      "value": {
+        "new": 12400,
+        "7zf": 0.02,
+        "7df": -15.89,
+        "7top": 12403,
+        "7down": 10700
+      }
+    },
+    {
+      "id": "1105000200402",
+      "name": "通用战术背心（破损）",
+      "grade": "2",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050002004.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 9700,
+      "dept_value": null,
+      "value": {
+        "new": 10200,
+        "7zf": 0.15,
+        "7df": -5.15,
+        "7top": 10215,
+        "7down": 9700
+      }
+    },
+    {
+      "id": "1105000300101",
+      "name": "制式防弹背心（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 26300,
+      "dept_value": null,
+      "value": {
+        "new": 25700,
+        "7zf": 272.4,
+        "7df": -12.72,
+        "7top": 95707,
+        "7down": 22800
+      }
+    },
+    {
+      "id": "1105000300102",
+      "name": "制式防弹背心（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 20900,
+      "dept_value": null,
+      "value": {
+        "new": 21100,
+        "7zf": 7.58,
+        "7df": -8.21,
+        "7top": 22700,
+        "7down": 19500
+      }
+    },
+    {
+      "id": "1105000300201",
+      "name": "Hvk快拆防弹衣（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 26600,
+      "dept_value": null,
+      "value": {
+        "new": 27700,
+        "7zf": 3.97,
+        "7df": -37.13,
+        "7top": 28800,
+        "7down": 20200
+      }
+    },
+    {
+      "id": "1105000300202",
+      "name": "Hvk快拆防弹衣（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003002.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 20800,
+      "dept_value": null,
+      "value": {
+        "new": 23700,
+        "7zf": 25.49,
+        "7df": -8.22,
+        "7top": 29741,
+        "7down": 21900
+      }
+    },
+    {
+      "id": "1105000300301",
+      "name": "TG-H防弹衣（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 37300,
+      "dept_value": null,
+      "value": {
+        "new": 36800,
+        "7zf": 3.8,
+        "7df": -44.31,
+        "7top": 38200,
+        "7down": 25500
+      }
+    },
+    {
+      "id": "1105000300302",
+      "name": "TG-H防弹衣（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 29100,
+      "dept_value": null,
+      "value": {
+        "new": 31500,
+        "7zf": 3.81,
+        "7df": -7.88,
+        "7top": 32700,
+        "7down": 29200
+      }
+    },
+    {
+      "id": "1105000300401",
+      "name": "射手战术背心（几乎全新）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 42700,
+      "dept_value": null,
+      "value": {
+        "new": 39000,
+        "7zf": 8.46,
+        "7df": -41.3,
+        "7top": 42300,
+        "7down": 27600
+      }
+    },
+    {
+      "id": "1105000300402",
+      "name": "射手战术背心（破损）",
+      "grade": "3",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050003004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 33100,
+      "dept_value": null,
+      "value": {
+        "new": 34800,
+        "7zf": 3.93,
+        "7df": -4.19,
+        "7top": 36167,
+        "7down": 33400
+      }
+    },
+    {
+      "id": "1105000400101",
+      "name": "武士防弹背心（几乎全新）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 73000,
+      "dept_value": null,
+      "value": {
+        "new": 83400,
+        "7zf": 11.15,
+        "7df": -20,
+        "7top": 92700,
+        "7down": 69500
+      }
+    },
+    {
+      "id": "1105000400102",
+      "name": "武士防弹背心（破损）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004001.png",
+      "length": "3",
+      "width": "3",
+      "combat_value": 54000,
+      "dept_value": null,
+      "value": {
+        "new": 72500,
+        "7zf": 10.48,
+        "7df": -11.88,
+        "7top": 80100,
+        "7down": 64800
+      }
+    },
+    {
+      "id": "1105000400201",
+      "name": "突击手防弹背心（几乎全新）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004002.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 106900,
+      "dept_value": null,
+      "value": {
+        "new": 114500,
+        "7zf": 10.57,
+        "7df": -11.82,
+        "7top": 126600,
+        "7down": 102400
+      }
+    },
+    {
+      "id": "1105000400202",
+      "name": "突击手防弹背心（破损）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004002.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 80000,
+      "dept_value": null,
+      "value": {
+        "new": 94300,
+        "7zf": 5.3,
+        "7df": -11.73,
+        "7top": 99300,
+        "7down": 84400
+      }
+    },
+    {
+      "id": "1105000400301",
+      "name": "DT-AVS防弹衣（几乎全新）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 123600,
+      "dept_value": null,
+      "value": {
+        "new": 129900,
+        "7zf": 10.32,
+        "7df": -11.41,
+        "7top": 143300,
+        "7down": 116600
+      }
+    },
+    {
+      "id": "1105000400302",
+      "name": "DT-AVS防弹衣（破损）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 91500,
+      "dept_value": null,
+      "value": {
+        "new": 104200,
+        "7zf": 10.56,
+        "7df": -8.54,
+        "7top": 115200,
+        "7down": 96000
+      }
+    },
+    {
+      "id": "1105000400401",
+      "name": "MK-2战术背心（几乎全新）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 137300,
+      "dept_value": null,
+      "value": {
+        "new": 140100,
+        "7zf": 7.71,
+        "7df": -14.74,
+        "7top": 150900,
+        "7down": 122100
+      }
+    },
+    {
+      "id": "1105000400402",
+      "name": "MK-2战术背心（破损）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004004.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 102600,
+      "dept_value": null,
+      "value": {
+        "new": 109400,
+        "7zf": 8.14,
+        "7df": -8.86,
+        "7top": 118300,
+        "7down": 100500
+      }
+    },
+    {
+      "id": "1105000400701",
+      "name": "HMP特勤防弹衣（几乎全新）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004007.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 93800,
+      "dept_value": null,
+      "value": {
+        "new": 90900,
+        "7zf": 17.16,
+        "7df": -17.14,
+        "7top": 106500,
+        "7down": 77600
+      }
+    },
+    {
+      "id": "1105000400702",
+      "name": "HMP特勤防弹衣（破损）",
+      "grade": "4",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050004007.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 69400,
+      "dept_value": null,
+      "value": {
+        "new": 74900,
+        "7zf": 7.34,
+        "7df": -17.21,
+        "7top": 80400,
+        "7down": 63900
+      }
+    },
+    {
+      "id": "1105000500101",
+      "name": "精英防弹背心（几乎全新）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005001.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 231500,
+      "dept_value": null,
+      "value": {
+        "new": 285900,
+        "7zf": 8.53,
+        "7df": -20.48,
+        "7top": 310300,
+        "7down": 237300
+      }
+    },
+    {
+      "id": "1105000500102",
+      "name": "精英防弹背心（破损）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005001.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 148400,
+      "dept_value": null,
+      "value": {
+        "new": 220500,
+        "7zf": 15.92,
+        "7df": -12.79,
+        "7top": 255600,
+        "7down": 195500
+      }
+    },
+    {
+      "id": "1105000500201",
+      "name": "Hvk-2防弹衣（几乎全新）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 230400,
+      "dept_value": null,
+      "value": {
+        "new": 251900,
+        "7zf": 18.78,
+        "7df": -28,
+        "7top": 299200,
+        "7down": 196800
+      }
+    },
+    {
+      "id": "1105000500202",
+      "name": "Hvk-2防弹衣（破损）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 147500,
+      "dept_value": null,
+      "value": {
+        "new": 207400,
+        "7zf": 21.89,
+        "7df": -28.02,
+        "7top": 252800,
+        "7down": 162000
+      }
+    },
+    {
+      "id": "1105000500301",
+      "name": "FS复合防弹衣（几乎全新）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 241400,
+      "dept_value": null,
+      "value": {
+        "new": 269200,
+        "7zf": 11.78,
+        "7df": -17.25,
+        "7top": 300900,
+        "7down": 229600
+      }
+    },
+    {
+      "id": "1105000500302",
+      "name": "FS复合防弹衣（破损）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005003.png",
+      "length": "3",
+      "width": "4",
+      "combat_value": 152400,
+      "dept_value": null,
+      "value": {
+        "new": 215200,
+        "7zf": 18.17,
+        "7df": -17.85,
+        "7top": 254300,
+        "7down": 182600
+      }
+    },
+    {
+      "id": "1105000500401",
+      "name": "重型突击背心（几乎全新）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005004.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 294400,
+      "dept_value": null,
+      "value": {
+        "new": 304300,
+        "7zf": 11.8,
+        "7df": -21.43,
+        "7top": 340200,
+        "7down": 250600
+      }
+    },
+    {
+      "id": "1105000500402",
+      "name": "重型突击背心（破损）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050005004.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 186200,
+      "dept_value": null,
+      "value": {
+        "new": 221100,
+        "7zf": 13.34,
+        "7df": -15.4,
+        "7top": 250600,
+        "7down": 191600
+      }
+    },
+    {
+      "id": "1105000600201",
+      "name": "HA-2防弹装甲（几乎全新）",
+      "grade": "6",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050006002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 1899000,
+      "dept_value": null,
+      "value": {
+        "new": 948000,
+        "7zf": 257.59,
+        "7df": -13.79,
+        "7top": 3390000,
+        "7down": 833100
+      }
+    },
+    {
+      "id": "1105000600202",
+      "name": "HA-2防弹装甲（破损）",
+      "grade": "6",
+      "primary": "装备",
+      "second": "护甲",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11050006002.png",
+      "length": "4",
+      "width": "4",
+      "combat_value": 1410100,
+      "dept_value": null,
+      "value": {
+        "new": 948000,
+        "7zf": 257.59,
+        "7df": -13.79,
+        "7top": 3390000,
+        "7down": 833100
+      }
+    }
+  ]
+}

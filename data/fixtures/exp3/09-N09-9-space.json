@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 19:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "11010005002",
+      "name": "H09 防暴头盔",
+      "grade": "5",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010005002.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 337000,
+      "dept_value": null,
+      "value": {
+        "new": 356600,
+        "7zf": 3.33,
+        "7df": -15.4,
+        "7top": 368491,
+        "7down": 309000
+      }
+    },
+    {
+      "id": "1101000500201",
+      "name": "H09 防暴头盔（几乎全新）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010005002.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 217400,
+      "dept_value": null,
+      "value": {
+        "new": 212000,
+        "7zf": 9.53,
+        "7df": -27.25,
+        "7top": 232200,
+        "7down": 166600
+      }
+    },
+    {
+      "id": "1101000500202",
+      "name": "H09 防暴头盔（破损）",
+      "grade": "5",
+      "primary": "装备",
+      "second": "头盔",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/11010005002.png",
+      "length": "2",
+      "width": "2",
+      "combat_value": 135900,
+      "dept_value": null,
+      "value": {
+        "new": 124700,
+        "7zf": 23.34,
+        "7df": -20.02,
+        "7top": 153800,
+        "7down": 103900
+      }
+    }
+  ]
+}

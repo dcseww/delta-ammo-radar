@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37160300001",
+      "name": "12.7x55mm PS12A",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "12.7x55mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/12.7x55.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 538,
+        "7zf": 11.34,
+        "7df": -25.41,
+        "7top": 599,
+        "7down": 429
+      }
+    }
+  ]
+}

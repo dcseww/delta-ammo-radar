@@ -1,0 +1,710 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 20:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37260000002",
+      "name": "4.6 x 30mm CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1889,
+        "7zf": 12.02,
+        "7df": -7.76,
+        "7top": 2116,
+        "7down": 1753
+      }
+    },
+    {
+      "id": "37260300001",
+      "name": "4.6x30mm Subsonic SX",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 134,
+        "7zf": 20.9,
+        "7df": -2.29,
+        "7top": 162,
+        "7down": 131
+      }
+    },
+    {
+      "id": "37260400001",
+      "name": "4.6x30mm FMJ SX",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 964,
+        "7zf": 33.4,
+        "7df": -7.23,
+        "7top": 1286,
+        "7down": 899
+      }
+    },
+    {
+      "id": "37260400002",
+      "name": "4.6 x 30mm FMJ ST",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1066,
+        "7zf": 10.79,
+        "7df": -20.18,
+        "7top": 1181,
+        "7down": 887
+      }
+    },
+    {
+      "id": "37260500001",
+      "name": "4.6x30mm AP SX",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4180,
+        "7zf": 5.45,
+        "7df": -13.96,
+        "7top": 4408,
+        "7down": 3668
+      }
+    },
+    {
+      "id": "37260500002",
+      "name": "4.6 x 30mm AP ST",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "4.6x30mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/4.6x30.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 5812,
+        "7zf": 2.22,
+        "7df": -33.98,
+        "7top": 5941,
+        "7down": 4338
+      }
+    },
+    {
+      "id": "37280300001",
+      "name": ".300BLK",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 444,
+        "7zf": 32.43,
+        "7df": -10.17,
+        "7top": 588,
+        "7down": 403
+      }
+    },
+    {
+      "id": "37280300002",
+      "name": ".300BLK V SUB",
+      "grade": "3",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37280400001",
+      "name": ".300BLK",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1604,
+        "7zf": 15.59,
+        "7df": -8.97,
+        "7top": 1854,
+        "7down": 1472
+      }
+    },
+    {
+      "id": "37280400002",
+      "name": ".300BLK BCP SUB",
+      "grade": "4",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": 0,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37280500001",
+      "name": ".300BLK",
+      "grade": "5",
+      "primary": "弹药",
+      "second": "7.62x35mm",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/300BLK.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4871,
+        "7zf": 16.2,
+        "7df": -13.52,
+        "7top": 5660,
+        "7down": 4291
+      }
+    },
+    {
+      "id": "13120000030",
+      "name": "5.56*45 30发聚合物弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000030.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 6100,
+      "dept_value": null,
+      "value": {
+        "new": 6700,
+        "7zf": 5.97,
+        "7df": -26.42,
+        "7top": 7100,
+        "7down": 5300
+      }
+    },
+    {
+      "id": "13120000036",
+      "name": "5.56*45 30发铝匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000036.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 2900,
+      "dept_value": null,
+      "value": {
+        "new": 2800,
+        "7zf": 28.57,
+        "7df": -3.7,
+        "7top": 3600,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000049",
+      "name": "M14 30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000049.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 55000,
+      "dept_value": null,
+      "value": {
+        "new": 62900,
+        "7zf": 23.37,
+        "7df": -88.32,
+        "7top": 77600,
+        "7down": 33400
+      }
+    },
+    {
+      "id": "13120000173",
+      "name": "G3 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000173.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 18400,
+      "dept_value": null,
+      "value": {
+        "new": 18500,
+        "7zf": 23.24,
+        "7df": -31.21,
+        "7top": 22800,
+        "7down": 14100
+      }
+    },
+    {
+      "id": "13120000240",
+      "name": "AK762弹匣30发（木色）",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000240.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 7100,
+      "dept_value": null,
+      "value": {
+        "new": 7200,
+        "7zf": 1.06,
+        "7df": 0,
+        "7top": 7276,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000243",
+      "name": "AK545口径30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000243.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 2.69,
+        "7df": -18.54,
+        "7top": 3697,
+        "7down": 3037
+      }
+    },
+    {
+      "id": "13120000246",
+      "name": "AK12聚合物30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000246.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3500,
+        "7zf": 22.86,
+        "7df": -6.06,
+        "7top": 4300,
+        "7down": 3300
+      }
+    },
+    {
+      "id": "13120000250",
+      "name": "SCARH 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000250.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 50000,
+      "dept_value": null,
+      "value": {
+        "new": 62600,
+        "7zf": 4.31,
+        "7df": -74.37,
+        "7top": 65300,
+        "7down": 35900
+      }
+    },
+    {
+      "id": "13120000253",
+      "name": "VSS30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000253.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 19900,
+      "dept_value": null,
+      "value": {
+        "new": 21100,
+        "7zf": 9.95,
+        "7df": -14.67,
+        "7top": 23200,
+        "7down": 18400
+      }
+    },
+    {
+      "id": "13120000260",
+      "name": "ASh-12扩容30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000260.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 48900,
+      "dept_value": null,
+      "value": {
+        "new": 51700,
+        "7zf": 0.12,
+        "7df": -3.61,
+        "7top": 51763,
+        "7down": 49900
+      }
+    },
+    {
+      "id": "13120000262",
+      "name": "M7 30发6.8弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000262.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 24400,
+      "dept_value": null,
+      "value": {
+        "new": 23400,
+        "7zf": 0.32,
+        "7df": 0,
+        "7top": 23476,
+        "7down": 23400
+      }
+    },
+    {
+      "id": "13120000267",
+      "name": "Mini-14 30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000267.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 44500,
+      "dept_value": null,
+      "value": {
+        "new": 40400,
+        "7zf": 44.55,
+        "7df": -46.38,
+        "7top": 58400,
+        "7down": 27600
+      }
+    },
+    {
+      "id": "13120000271",
+      "name": "Vector扩容30发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000271.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 15400,
+      "dept_value": null,
+      "value": {
+        "new": 15600,
+        "7zf": 0.65,
+        "7df": 0,
+        "7top": 15702,
+        "7down": 15600
+      }
+    },
+    {
+      "id": "13120000313",
+      "name": "AKM30发聚合物弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000313.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 3400,
+      "dept_value": null,
+      "value": {
+        "new": 3500,
+        "7zf": 42.86,
+        "7df": 0,
+        "7top": 5000,
+        "7down": 3500
+      }
+    },
+    {
+      "id": "13120000315",
+      "name": "SG552 30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000315.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3500,
+      "dept_value": null,
+      "value": {
+        "new": 3600,
+        "7zf": 33.33,
+        "7df": -33.33,
+        "7top": 4800,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000319",
+      "name": "MP7 30发弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000319.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 15300,
+      "dept_value": null,
+      "value": {
+        "new": 15700,
+        "7zf": 0.01,
+        "7df": -0.64,
+        "7top": 15702,
+        "7down": 15600
+      }
+    },
+    {
+      "id": "13120000327",
+      "name": "AKS74U 30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000327.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 3300,
+      "dept_value": null,
+      "value": {
+        "new": 2800,
+        "7zf": 25,
+        "7df": -3.7,
+        "7top": 3500,
+        "7down": 2700
+      }
+    },
+    {
+      "id": "13120000329",
+      "name": "5.8新式30发弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000329.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 7100,
+      "dept_value": null,
+      "value": {
+        "new": 7200,
+        "7zf": 1.06,
+        "7df": 0,
+        "7top": 7276,
+        "7down": 7200
+      }
+    },
+    {
+      "id": "13120000331",
+      "name": "SR25 30发扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000331.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 57500,
+      "dept_value": null,
+      "value": {
+        "new": 94000,
+        "7zf": 7.55,
+        "7df": -82.88,
+        "7top": 101100,
+        "7down": 51400
+      }
+    },
+    {
+      "id": "13120000342",
+      "name": "AR聚合物30发 弹匣",
+      "grade": "2",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000342.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 6000,
+      "dept_value": null,
+      "value": {
+        "new": 6600,
+        "7zf": 10.61,
+        "7df": -26.92,
+        "7top": 7300,
+        "7down": 5200
+      }
+    },
+    {
+      "id": "13120000359",
+      "name": "MK4730发弹匣",
+      "grade": "3",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000359.png",
+      "length": "1",
+      "width": "2",
+      "combat_value": 38100,
+      "dept_value": null,
+      "value": {
+        "new": 33600,
+        "7zf": 52.98,
+        "7df": -58.49,
+        "7top": 51400,
+        "7down": 21200
+      }
+    },
+    {
+      "id": "13120000392",
+      "name": "MDR.308扩容弹匣",
+      "grade": "4",
+      "primary": "配件",
+      "second": "弹匣",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13120000392.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 32690,
+      "dept_value": null,
+      "value": {
+        "new": 33819,
+        "7zf": 5.26,
+        "7df": -35.72,
+        "7top": 35599,
+        "7down": 24919
+      }
+    },
+    {
+      "id": "13240000017",
+      "name": "MDR.308缓冲枪托",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13240000017.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 31043,
+      "dept_value": null,
+      "value": {
+        "new": 33553,
+        "7zf": 4.01,
+        "7df": -25.67,
+        "7top": 34898,
+        "7down": 26700
+      }
+    },
+    {
+      "id": "13290000014",
+      "name": "MDR.308托腮板",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪托",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13290000014.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": 30982,
+      "dept_value": null,
+      "value": {
+        "new": 41100,
+        "7zf": 69.9,
+        "7df": -59.92,
+        "7top": 69829,
+        "7down": 25700
+      }
+    },
+    {
+      "id": "13020000615",
+      "name": "MDR.308渗透者短枪管",
+      "grade": "3",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000615.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 46921,
+      "dept_value": null,
+      "value": {
+        "new": 40973,
+        "7zf": 26.14,
+        "7df": -64.5,
+        "7top": 51683,
+        "7down": 24908
+      }
+    },
+    {
+      "id": "13020000616",
+      "name": "MDR.308对峙者长枪管",
+      "grade": "4",
+      "primary": "配件",
+      "second": "枪管",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/13020000616.png",
+      "length": "2",
+      "width": "1",
+      "combat_value": 44266,
+      "dept_value": null,
+      "value": {
+        "new": 51707,
+        "7zf": 0,
+        "7df": -47.36,
+        "7top": 51707,
+        "7down": 35090
+      }
+    }
+  ]
+}

@@ -1,0 +1,1598 @@
+# 三角洲行动 · 子弹基础表（ammo_catalog.yaml）
+#
+# 由 tools/discover_all_ammo.py 从公开只读接口自动生成。
+# 这是整个项目**唯一需要人工核对**的数据文件。
+#
+# 生成时间：2026-10-14 20:37:06
+# 数据来源：https://dergame.cn/api/Items/search
+# 物品名数：113   含价格：85
+#
+# 人工核对要点：
+#   1. is_pack / pack_size —— 打包出售（子弹自选包、弹匣）必须填对，
+#      否则单发价折算错误，所有收益分析都会跟着错。
+#   2. tradeable —— 不可交易的物品保留但置 0，采集时跳过。
+#   3. enabled   —— 不关心的置 0，减少请求与存储。
+#   4. 同名多条（variants）—— 表示游戏内同名的不同品质/型号，
+#      核对时确认是否应合并或拆成不同 ammo_id。
+- ammo_id: 338_lap_mag_ap
+  name: .338 Lap Mag AP
+  caliber: .338 Lap Mag
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37240700001'
+  enabled: 1
+- ammo_id: 357_magnum_9号霰射_鼠弹
+  name: .357 Magnum 9号霰射"鼠弹"
+  caliber: .357 Magnum
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37220000001'
+  enabled: 1
+- ammo_id: 357_magnum_fmj
+  name: .357 Magnum FMJ
+  caliber: .357 Magnum
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37220400001'
+  enabled: 1
+- ammo_id: 357_magnum_hp
+  name: .357 Magnum HP
+  caliber: .357 Magnum
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37220200001'
+  enabled: 1
+- ammo_id: 357_magnum_jhp
+  name: .357 Magnum JHP
+  caliber: .357 Magnum
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37220300001'
+  enabled: 1
+- ammo_id: 45_acp_ap
+  name: .45 ACP AP
+  caliber: .45 ACP
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190400001'
+  enabled: 1
+- ammo_id: 45_acp_ct
+  name: .45 ACP CT
+  caliber: .45 ACP
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37190000002'
+  enabled: 1
+- ammo_id: 45_acp_fmj
+  name: .45 ACP FMJ
+  caliber: .45 ACP
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190300001'
+  enabled: 1
+- ammo_id: 45_acp_hs
+  name: .45 ACP HS
+  caliber: .45 ACP
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190100001'
+  enabled: 1
+- ammo_id: 45_acp_jhp
+  name: .45 ACP JHP
+  caliber: .45 ACP
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190200001'
+  enabled: 1
+- ammo_id: 45_acp_rip
+  name: .45 ACP RIP
+  caliber: .45 ACP
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190000001'
+  enabled: 1
+- ammo_id: 45_acp_super
+  name: .45 ACP Super​
+  caliber: .45 ACP
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37190500001'
+  enabled: 1
+- ammo_id: 45_70_govt_fmj
+  name: 45-70 Govt FMJ
+  caliber: .45-70mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37290400001'
+  enabled: 1
+- ammo_id: 45_70_govt_ftx
+  name: 45-70 Govt FTX
+  caliber: .45-70mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37290500001'
+  enabled: 1
+- ammo_id: 45_70_govt_rn
+  name: 45-70 Govt RN
+  caliber: .45-70mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37290300001'
+  enabled: 1
+- ammo_id: 50_ae_ap
+  name: .50 AE AP
+  caliber: .50 AE
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37230500001'
+  enabled: 1
+- ammo_id: 50_ae_fmj
+  name: .50 AE FMJ
+  caliber: .50 AE
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37230400001'
+  enabled: 1
+- ammo_id: 50_ae_hp
+  name: .50 AE HP
+  caliber: .50 AE
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37230200001'
+  enabled: 1
+- ammo_id: 50_ae_jhp
+  name: .50 AE JHP
+  caliber: .50 AE
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37230300001'
+  enabled: 1
+- ammo_id: 50_bmg_m10_razor
+  name: .50 BMG M10 RAZOR
+  caliber: .50 BMG
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37300600001'
+  enabled: 1
+- ammo_id: 50_bmg_m3_k_0
+  name: .50 BMG M3 K-0
+  caliber: .50 BMG
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37300600002'
+  enabled: 1
+- ammo_id: 50_bmg_m903_slap
+  name: .50 BMG M903 SLAP
+  caliber: .50 BMG
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37300700001'
+  enabled: 1
+- ammo_id: 12_gauge_7毫米鹿弹
+  name: 12 Gauge 7毫米鹿弹
+  caliber: 12 Gauge
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250100001'
+  enabled: 1
+- ammo_id: 12_gauge_8_5毫米鹿弹
+  name: 12 Gauge 8.5毫米鹿弹
+  caliber: 12 Gauge
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250000001'
+  enabled: 1
+- ammo_id: 12_gauge_dart
+  name: 12 Gauge DART
+  caliber: 12 Gauge
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250400005'
+  enabled: 1
+- ammo_id: 12_gauge_独头_apx
+  name: 12 Gauge 独头 APX
+  caliber: 12 Gauge
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37250400004'
+  enabled: 1
+- ammo_id: 12_gauge_箭形弹
+  name: 12 Gauge 箭形弹
+  caliber: 12 Gauge
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250300001'
+  enabled: 1
+- ammo_id: 12_gauge_龙息弹
+  name: 12 Gauge 龙息弹
+  caliber: 12 Gauge
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250400003'
+  enabled: 1
+- ammo_id: 12_gauge独头_ap_20
+  name: 12 Gauge独头 AP-20
+  caliber: 12 Gauge
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250400002'
+  enabled: 1
+- ammo_id: 12_gauge独头_ftx
+  name: 12 Gauge独头 FTX
+  caliber: 12 Gauge
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250300002'
+  enabled: 1
+- ammo_id: 12_gauge独头_gt
+  name: 12 Gauge独头 GT
+  caliber: 12 Gauge
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250200002'
+  enabled: 1
+- ammo_id: 12_gauge独头_rip
+  name: 12 Gauge独头 RIP
+  caliber: 12 Gauge
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37250000002'
+  enabled: 1
+- ammo_id: 12_7x55mm_pd12双头弹
+  name: 12.7x55mm PD12双头弹
+  caliber: 12.7x55mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37160400002'
+  enabled: 1
+- ammo_id: 12_7x55mm_ps12
+  name: 12.7x55mm PS12
+  caliber: 12.7x55mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37160400001'
+  enabled: 1
+- ammo_id: 12_7x55mm_ps12a
+  name: 12.7x55mm PS12A
+  caliber: 12.7x55mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37160300001'
+  enabled: 1
+- ammo_id: 12_7x55mm_ps12b
+  name: 12.7x55mm PS12B
+  caliber: 12.7x55mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37160500001'
+  enabled: 1
+- ammo_id: 4_6_x_30mm_ap_st
+  name: 4.6 x 30mm AP ST
+  caliber: 4.6x30mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260500002'
+  enabled: 1
+- ammo_id: 4_6_x_30mm_ct
+  name: 4.6 x 30mm CT
+  caliber: 4.6x30mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260000002'
+  enabled: 1
+- ammo_id: 4_6_x_30mm_fmj_st
+  name: 4.6 x 30mm FMJ ST
+  caliber: 4.6x30mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260400002'
+  enabled: 1
+- ammo_id: 4_6x30mm_ap_sx
+  name: 4.6x30mm AP SX
+  caliber: 4.6x30mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260500001'
+  enabled: 1
+- ammo_id: 4_6x30mm_fmj_sx
+  name: 4.6x30mm FMJ SX
+  caliber: 4.6x30mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260400001'
+  enabled: 1
+- ammo_id: 4_6x30mm_subsonic_sx
+  name: 4.6x30mm Subsonic SX
+  caliber: 4.6x30mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37260300001'
+  enabled: 1
+- ammo_id: 5_45_39mm_bs_st
+  name: 5.45*39mm BS ST+
+  caliber: 5.45x39mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37120500003'
+  enabled: 1
+- ammo_id: 5_45_39mm_bt_st
+  name: 5.45*39mm BT ST
+  caliber: 5.45x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37120400003'
+  enabled: 1
+- ammo_id: 5_45x39mm_bs
+  name: 5.45x39mm BS
+  caliber: 5.45x39mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37120500001'
+  enabled: 1
+- ammo_id: 5_45x39mm_bt
+  name: 5.45x39mm BT
+  caliber: 5.45x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37120400001'
+  enabled: 1
+- ammo_id: 5_45x39mm_bt_p
+  name: 5.45x39mm BT +P
+  caliber: 5.45x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37120400002'
+  enabled: 1
+- ammo_id: 5_45x39mm_prs
+  name: 5.45x39mm PRS
+  caliber: 5.45x39mm
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37120100001'
+  enabled: 1
+- ammo_id: 5_45x39mm_ps
+  name: 5.45x39mm PS
+  caliber: 5.45x39mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37120300001'
+  enabled: 1
+- ammo_id: 5_45x39mm_t
+  name: 5.45x39mm T
+  caliber: 5.45x39mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37120200001'
+  enabled: 1
+- ammo_id: 5_56_45mm_m855_apc
+  name: 5.56*45mm M855 APC
+  caliber: 5.56x45mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37100300002'
+  enabled: 1
+- ammo_id: 5_56_45mm_m855a1_apc
+  name: 5.56*45mm M855A1 APC+
+  caliber: 5.56x45mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37100400002'
+  enabled: 1
+- ammo_id: 5_56x45mm_fmj
+  name: 5.56x45mm FMJ
+  caliber: 5.56x45mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37100200001'
+  enabled: 1
+- ammo_id: 5_56x45mm_m855
+  name: 5.56x45mm M855
+  caliber: 5.56x45mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37100300001'
+  enabled: 1
+- ammo_id: 5_56x45mm_m855a1
+  name: 5.56x45mm M855A1
+  caliber: 5.56x45mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37100400001'
+  enabled: 1
+- ammo_id: 5_56x45mm_m995
+  name: 5.56x45mm M995
+  caliber: 5.56x45mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37100500001'
+  enabled: 1
+- ammo_id: 5_56x45mm_rrlp
+  name: 5.56x45mm RRLP
+  caliber: 5.56x45mm
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37100100001'
+  enabled: 1
+- ammo_id: 5_7_x_28mm_ht
+  name: 5.7 x 28mm HT+
+  caliber: 5.7x28mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210400002'
+  enabled: 1
+- ammo_id: 5_7x28mm_l191
+  name: 5.7x28mm L191
+  caliber: 5.7x28mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210300001'
+  enabled: 1
+- ammo_id: 5_7x28mm_r37_f
+  name: 5.7x28mm R37.F
+  caliber: 5.7x28mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210000001'
+  enabled: 1
+- ammo_id: 5_7x28mm_ss190
+  name: 5.7x28mm SS190
+  caliber: 5.7x28mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210500001'
+  enabled: 1
+- ammo_id: 5_7x28mm_ss193
+  name: 5.7x28mm SS193
+  caliber: 5.7x28mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210400001'
+  enabled: 1
+- ammo_id: 5_7x28mm_ss197sr
+  name: 5.7x28mm SS197SR
+  caliber: 5.7x28mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210200001'
+  enabled: 1
+- ammo_id: 5_7x28mm_ss198lf
+  name: 5.7x28mm SS198LF
+  caliber: 5.7x28mm
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37210100001'
+  enabled: 1
+- ammo_id: 5_8_42mm_dbp10_p
+  name: 5.8*42mm DBP10+P
+  caliber: 5.8x42mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37130400002'
+  enabled: 1
+- ammo_id: 5_8_42mm_dvc12_p
+  name: 5.8*42mm DVC12+P
+  caliber: 5.8x42mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37130500002'
+  enabled: 1
+- ammo_id: 5_8x42mm_dbp10
+  name: 5.8x42mm DBP10
+  caliber: 5.8x42mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37130400001'
+  enabled: 1
+- ammo_id: 5_8x42mm_dbp87
+  name: 5.8x42mm DBP87
+  caliber: 5.8x42mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37130200001'
+  enabled: 1
+- ammo_id: 5_8x42mm_dvc12
+  name: 5.8x42mm DVC12
+  caliber: 5.8x42mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37130500001'
+  enabled: 1
+- ammo_id: 5_8x42mm_dvp88
+  name: 5.8x42mm DVP88
+  caliber: 5.8x42mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37130300001'
+  enabled: 1
+- ammo_id: 6_8_51mm_ply_i
+  name: 6.8*51mm PLY-I
+  caliber: 6.8x51mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37150300002'
+  enabled: 1
+- ammo_id: 6_8_51mm_ply_ii
+  name: 6.8*51mm PLY-II
+  caliber: 6.8x51mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37150400002'
+  enabled: 1
+- ammo_id: 6_8_51mm_ply_iii
+  name: 6.8*51mm PLY-III
+  caliber: 6.8x51mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37150500002'
+  enabled: 1
+- ammo_id: 6_8x51mm_ap
+  name: 6.8x51mm AP
+  caliber: 6.8x51mm
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37150600001'
+  enabled: 1
+- ammo_id: 6_8x51mm_fmj
+  name: 6.8x51mm FMJ
+  caliber: 6.8x51mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37150400001'
+  enabled: 1
+- ammo_id: 6_8x51mm_hybrid
+  name: 6.8x51mm Hybrid
+  caliber: 6.8x51mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37150500001'
+  enabled: 1
+- ammo_id: 300blk_g5
+  name: .300BLK
+  caliber: 7.62x35mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37280500001'
+  enabled: 1
+- ammo_id: 300blk_g4
+  name: .300BLK
+  caliber: 7.62x35mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37280400001'
+  enabled: 1
+- ammo_id: 300blk_g3
+  name: .300BLK
+  caliber: 7.62x35mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37280300001'
+  enabled: 1
+- ammo_id: 300blk_bcp_sub
+  name: .300BLK BCP SUB
+  caliber: 7.62x35mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37280400002'
+  enabled: 1
+- ammo_id: 300blk_v_sub
+  name: .300BLK V SUB
+  caliber: 7.62x35mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37280300002'
+  enabled: 1
+- ammo_id: 7_62_39mm_ap_sub
+  name: 7.62*39mm AP SUB
+  caliber: 7.62x39mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37110500002'
+  enabled: 1
+- ammo_id: 7_62_39mm_bp_sub
+  name: 7.62*39mm BP SUB
+  caliber: 7.62x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37110400002'
+  enabled: 1
+- ammo_id: 7_62x39mm_ap
+  name: 7.62x39mm AP
+  caliber: 7.62x39mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37110500001'
+  enabled: 1
+- ammo_id: 7_62x39mm_bp
+  name: 7.62x39mm BP
+  caliber: 7.62x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37110400001'
+  enabled: 1
+- ammo_id: 7_62x39mm_lp
+  name: 7.62x39mm LP
+  caliber: 7.62x39mm
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37110100001'
+  enabled: 1
+- ammo_id: 7_62x39mm_ps
+  name: 7.62x39mm PS
+  caliber: 7.62x39mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37110300001'
+  enabled: 1
+- ammo_id: 7_62x39mm_t45m
+  name: 7.62x39mm T45M
+  caliber: 7.62x39mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37110200001'
+  enabled: 1
+- ammo_id: 7_62_x_51mm_ls
+  name: 7.62 x 51mm LS
+  caliber: 7.62x51mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37170500002'
+  enabled: 1
+- ammo_id: 7_62x51mm_bpz
+  name: 7.62x51mm BPZ
+  caliber: 7.62x51mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37170300001'
+  enabled: 1
+- ammo_id: 7_62x51mm_m61
+  name: 7.62x51mm M61
+  caliber: 7.62x51mm
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37170600001'
+  enabled: 1
+- ammo_id: 7_62x51mm_m62
+  name: 7.62x51mm M62
+  caliber: 7.62x51mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37170500001'
+  enabled: 1
+- ammo_id: 7_62x51mm_m80
+  name: 7.62x51mm M80
+  caliber: 7.62x51mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37170400001'
+  enabled: 1
+- ammo_id: 7_62x51mm_un
+  name: 7.62x51mm UN
+  caliber: 7.62x51mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37170200001'
+  enabled: 1
+- ammo_id: 7_62x54r_bt
+  name: 7.62x54R BT
+  caliber: 7.62x54mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37180500001'
+  enabled: 1
+- ammo_id: 7_62x54r_lps
+  name: 7.62x54R LPS
+  caliber: 7.62x54mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37180400001'
+  enabled: 1
+- ammo_id: 7_62x54r_snb
+  name: 7.62x54R SNB
+  caliber: 7.62x54mm
+  tier: 红
+  grade: '6'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37180600001'
+  enabled: 1
+- ammo_id: 7_62x54r_t46m
+  name: 7.62x54R T46M
+  caliber: 7.62x54mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37180300001'
+  enabled: 1
+- ammo_id: 9_19mm_ct
+  name: 9*19mm CT
+  caliber: 9x19mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37200000002'
+  enabled: 1
+- ammo_id: 9x19mm_ap6_3
+  name: 9x19mm AP6.3
+  caliber: 9x19mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37200300001'
+  enabled: 1
+- ammo_id: 9x19mm_pbp
+  name: 9x19mm PBP
+  caliber: 9x19mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37200400001'
+  enabled: 1
+- ammo_id: 9x19mm_pso
+  name: 9x19mm PSO
+  caliber: 9x19mm
+  tier: 白
+  grade: '1'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37200100001'
+  enabled: 1
+- ammo_id: 9x19mm_pst
+  name: 9x19mm Pst
+  caliber: 9x19mm
+  tier: 绿
+  grade: '2'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37200200001'
+  enabled: 1
+- ammo_id: 9x19mm_rip
+  name: 9x19mm RIP
+  caliber: 9x19mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37200000001'
+  enabled: 1
+- ammo_id: 9_39mm_pab_7
+  name: 9*39mm PAB-7
+  caliber: 9x39mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37140300002'
+  enabled: 1
+- ammo_id: 9_39mm_pab_9
+  name: 9*39mm PAB-9
+  caliber: 9x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37140400002'
+  enabled: 1
+- ammo_id: 9x39mm_bp
+  name: 9x39mm BP
+  caliber: 9x39mm
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37140500001'
+  enabled: 1
+- ammo_id: 9x39mm_sp5
+  name: 9x39mm SP5
+  caliber: 9x39mm
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37140300001'
+  enabled: 1
+- ammo_id: 9x39mm_sp6
+  name: 9x39mm SP6
+  caliber: 9x39mm
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37140400001'
+  enabled: 1
+- ammo_id: 玻纤柳叶箭矢
+  name: 玻纤柳叶箭矢
+  caliber: 复合弓箭矢
+  tier: 蓝
+  grade: '3'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37270300001'
+  enabled: 1
+- ammo_id: 碳纤维刺骨箭矢
+  name: 碳纤维刺骨箭矢
+  caliber: 复合弓箭矢
+  tier: 紫
+  grade: '4'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37270400001'
+  enabled: 1
+- ammo_id: 碳纤维散射箭矢
+  name: 碳纤维散射箭矢
+  caliber: 复合弓箭矢
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 0
+  external_ids:
+    dergame:
+    - '37270500002'
+  enabled: 1
+- ammo_id: 碳纤维穿甲箭矢
+  name: 碳纤维穿甲箭矢
+  caliber: 复合弓箭矢
+  tier: 金
+  grade: '5'
+  is_pack: 0
+  pack_size: 1
+  length: '1'
+  width: '1'
+  tradeable: 1
+  external_ids:
+    dergame:
+    - '37270500001'
+  enabled: 1

@@ -1,0 +1,28 @@
+{
+  "probed_at": "20261014T103622Z",
+  "request": {
+    "url": "https://dergame.cn/api/Items/search",
+    "method": "POST",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*",
+      "Content-Type": "application/json"
+    },
+    "body_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://dergame.cn/api/Items/search",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 31478,
+    "sha256": "50aa5b4809e11bc52b66b7d15b69edd5f7a06927c82fe681bc49347332042546",
+    "elapsed_ms": 1328
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[OK]   返回 JSON —— 可直接用 json 解析，最理想"
+  ],
+  "key_field_hits": [
+    "弹药"
+  ]
+}

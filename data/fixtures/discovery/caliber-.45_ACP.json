@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "updateTime": "2026-10-14 18:30:01",
+  "msg": "获取成功",
+  "data": [
+    {
+      "id": "37190000001",
+      "name": ".45 ACP RIP",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 657,
+        "7zf": 34.25,
+        "7df": -2.98,
+        "7top": 882,
+        "7down": 638
+      }
+    },
+    {
+      "id": "37190000002",
+      "name": ".45 ACP CT",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": null,
+        "7zf": null,
+        "7df": null,
+        "7top": null,
+        "7down": null
+      }
+    },
+    {
+      "id": "37190100001",
+      "name": ".45 ACP HS",
+      "grade": "1",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 41,
+        "7zf": 2.44,
+        "7df": -7.89,
+        "7top": 42,
+        "7down": 38
+      }
+    },
+    {
+      "id": "37190200001",
+      "name": ".45 ACP JHP",
+      "grade": "2",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 109,
+        "7zf": 5.5,
+        "7df": 0,
+        "7top": 115,
+        "7down": 109
+      }
+    },
+    {
+      "id": "37190300001",
+      "name": ".45 ACP FMJ",
+      "grade": "3",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 453,
+        "7zf": 50.77,
+        "7df": -22.43,
+        "7top": 683,
+        "7down": 370
+      }
+    },
+    {
+      "id": "37190400001",
+      "name": ".45 ACP AP",
+      "grade": "4",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 1634,
+        "7zf": 20.69,
+        "7df": -4.61,
+        "7top": 1972,
+        "7down": 1562
+      }
+    },
+    {
+      "id": "37190500001",
+      "name": ".45 ACP Super​",
+      "grade": "5",
+      "primary": "弹药",
+      "second": ".45 ACP",
+      "pic": "https://playerhub.df.qq.com/playerhub/60004/object/gun/ammo/45-ACP.png",
+      "length": "1",
+      "width": "1",
+      "combat_value": null,
+      "dept_value": null,
+      "value": {
+        "new": 4958,
+        "7zf": 7.1,
+        "7df": -16.09,
+        "7top": 5310,
+        "7down": 4271
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "probed_at": "20261014T103340Z",
+  "request": {
+    "url": "https://evaan25.github.io/deltaforce-playground/",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "df-ammo-radar-probe/0.1 (personal read-only research; contact: local user)",
+      "Accept": "*/*"
+    },
+    "body_sha256": null
+  },
+  "response": {
+    "status": 200,
+    "final_url": "https://evaan25.github.io/deltaforce-playground/",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 21443,
+    "sha256": "5c7af0556aa5180536d3d4b926ddd6b45f632d85679367df9da174e8cdf3694e",
+    "elapsed_ms": 836
+  },
+  "judgement": [
+    "[OK]   HTTP 200，可访问",
+    "[WARN] 返回 HTML —— 若数据在 JS 里渲染，HTML 里可能根本没有价格，需进一步确认"
+  ],
+  "key_field_hits": [
+    "价格",
+    "涨跌"
+  ]
+}

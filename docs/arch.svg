@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1080" viewBox="0 0 1560 1080">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#96a5be"/>
+</marker>
+</defs>
+<rect width="1560" height="1080" fill="#f6f8fc"/>
+<text x="40" y="56" font-size="32" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">三角洲行动 · 子弹物价实时监控系统</text>
+<text x="40" y="86" font-size="15" fill="#68748b" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">单机自用 · 本地网页看板 · 只做监控与告警，不触碰游戏客户端</text>
+<line x1="40" y1="106" x2="1520" y2="106" stroke="#d2dae8" stroke-width="1.4"/>
+<text x="40" y="140" font-size="17" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">分层视图（L1 → L5 单向依赖）</text>
+<text x="1520" y="140" font-size="17" fill="#be5a28" font-weight="bold" text-anchor="end" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">数据源可替换</text>
+<rect x="40" y="160" width="900" height="168" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="56" y="188" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">L1  数据源层（可插拔适配器）</text>
+<rect x="56" y="204" width="420" height="108" rx="12" fill="#f0fdf4" stroke="#6ebe8c" stroke-width="1.6"/>
+<text x="72" y="228" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">A  公开只读接口（已实测采用）</text>
+<text x="72" y="252" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· POST /api/Items/search</text>
+<text x="72" y="272" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· 无需登录 / 无需 Token / 无需执行 JS</text>
+<text x="72" y="292" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· 弹药 113 条，83 条可交易；单一参考价</text>
+<rect x="492" y="204" width="432" height="108" rx="12" fill="#eef7ff" stroke="#5a9ce0" stroke-width="1.6"/>
+<text x="508" y="228" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">B  付费聚合服务（备选，未采用）</text>
+<text x="508" y="252" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· 稳定但按资源包计费</text>
+<text x="508" y="272" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· 唯一能提供『子弹自选包收益』的来源</text>
+<text x="508" y="292" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">· 换源只改适配器，不动上层</text>
+<rect x="40" y="356" width="900" height="150" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="56" y="384" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">L2  采集与归一化（Collector / ETL）</text>
+<rect x="56" y="400" width="205" height="92" rx="12" fill="#f0fdf4" stroke="#6ebe8c" stroke-width="1.6"/>
+<text x="72" y="424" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">调度器</text>
+<text x="72" y="447" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">APScheduler</text>
+<text x="72" y="466" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">10 分钟 + 抖动</text>
+<text x="72" y="485" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">指数退避 1/4/16s</text>
+<line x1="263" y1="446" x2="275" y2="446" stroke="#96c6a6" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="277" y="400" width="205" height="92" rx="12" fill="#eef7ff" stroke="#5a9ce0" stroke-width="1.6"/>
+<text x="293" y="424" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">适配器</text>
+<text x="293" y="447" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">DerGameAdapter</text>
+<text x="293" y="466" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">外部 ID → ammo_id</text>
+<text x="293" y="485" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">字段归一为 ItemQuote</text>
+<line x1="484" y1="446" x2="496" y2="446" stroke="#96c6a6" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="498" y="400" width="205" height="92" rx="12" fill="#f0fdf4" stroke="#6ebe8c" stroke-width="1.6"/>
+<text x="514" y="424" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">清洗校验</text>
+<text x="514" y="447" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">负价/未来时间戳</text>
+<text x="514" y="466" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">15 分钟内跳变 &gt; 60%</text>
+<text x="514" y="485" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">判异入库但不进曲线</text>
+<line x1="705" y1="446" x2="717" y2="446" stroke="#96c6a6" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="719" y="400" width="205" height="92" rx="12" fill="#eef7ff" stroke="#5a9ce0" stroke-width="1.6"/>
+<text x="735" y="424" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">幂等落库</text>
+<text x="735" y="447" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">唯一索引去重</text>
+<text x="735" y="466" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">重复采集自动覆盖</text>
+<text x="735" y="485" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">suspect 标记留证</text>
+<line x1="290" y1="328" x2="290" y2="356" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="690" y1="328" x2="690" y2="356" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="40" y="536" width="900" height="182" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="56" y="564" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">L3  存储与分析（Storage &amp; Analytics）</text>
+<rect x="56" y="580" width="205" height="124" rx="12" fill="#faf5ff" stroke="#9e82dc" stroke-width="1.6"/>
+<text x="72" y="604" font-size="13" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">SQLite 时序库</text>
+<text x="72" y="627" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">price_tick 明细 30 天</text>
+<text x="72" y="646" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">1h / 1d 聚合</text>
+<text x="72" y="665" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">WAL + 幂等写入</text>
+<rect x="277" y="580" width="205" height="124" rx="12" fill="#faf5ff" stroke="#9e82dc" stroke-width="1.6"/>
+<text x="293" y="604" font-size="13" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">指标计算（纯函数）</text>
+<text x="293" y="627" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">涨跌幅 / MA / EMA</text>
+<text x="293" y="646" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">分位数（带样本量）</text>
+<text x="293" y="665" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">σ 与 z-score</text>
+<rect x="498" y="580" width="205" height="124" rx="12" fill="#faf5ff" stroke="#9e82dc" stroke-width="1.6"/>
+<text x="514" y="604" font-size="13" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">规则引擎（纯函数）</text>
+<text x="514" y="627" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">阈值 / 涨跌幅 / 分位</text>
+<text x="514" y="646" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">冷却 + 静默 + 持续确认</text>
+<text x="514" y="665" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">同物品合并防轰炸</text>
+<rect x="719" y="580" width="205" height="124" rx="12" fill="#faf5ff" stroke="#9e82dc" stroke-width="1.6"/>
+<text x="735" y="604" font-size="13" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">历史回补</text>
+<text x="735" y="627" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">7 天逐小时（约 168 点）</text>
+<text x="735" y="646" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">首次启动即回补</text>
+<text x="735" y="665" font-size="11" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">分位数立即可用</text>
+<line x1="290" y1="506" x2="290" y2="536" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="690" y1="506" x2="690" y2="536" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="40" y="748" width="900" height="132" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="56" y="776" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">L4  服务层（FastAPI，仅绑 127.0.0.1）</text>
+<rect x="56" y="796" width="90.39999999999999" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="67" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/ammo</text>
+<rect x="156.39999999999998" y="796" width="136.0" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="167.39999999999998" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/price/{id}</text>
+<rect x="302.4" y="796" width="90.39999999999999" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="313.4" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/rank</text>
+<rect x="402.79999999999995" y="796" width="120.8" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="413.79999999999995" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/alerts/*</text>
+<rect x="533.5999999999999" y="796" width="105.6" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="544.5999999999999" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/health</text>
+<rect x="649.1999999999999" y="796" width="166.4" height="32" rx="8" fill="#ecfdf5" stroke="#50b482" stroke-width="1.4"/>
+<text x="660.1999999999999" y="817" font-size="12" fill="#1c3c30" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">/api/ingest/trigger</text>
+<text x="56" y="856" font-size="12" fill="#68748b" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">无多用户体系 · 无鉴权 · 不暴露公网 · 单进程 + 单 SQLite 文件</text>
+<line x1="290" y1="718" x2="290" y2="748" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="690" y1="718" x2="690" y2="748" stroke="#96a5be" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="972" y="160" width="548" height="420" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="988" y="188" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">L5  展示层（浏览器看板，纯离线）</text>
+<rect x="988" y="204" width="516" height="66" rx="10" fill="#fff9ec" stroke="#e9b054" stroke-width="1.4"/>
+<text x="1004" y="230" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">行情总览</text>
+<text x="1004" y="252" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">搜索 / 品质 / 口径筛选 · 多列排序 · 红涨绿跌</text>
+<rect x="988" y="280" width="516" height="66" rx="10" fill="#fff9ec" stroke="#e9b054" stroke-width="1.4"/>
+<text x="1004" y="306" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">价格曲线</text>
+<text x="1004" y="328" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">1h / 6h / 24h / 7d 切换 · 周内高低线标注</text>
+<rect x="988" y="356" width="516" height="66" rx="10" fill="#fff9ec" stroke="#e9b054" stroke-width="1.4"/>
+<text x="1004" y="382" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">排行榜</text>
+<text x="1004" y="404" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">涨幅 / 跌幅 / 波动 / 机会分 / 低位榜</text>
+<rect x="988" y="432" width="516" height="66" rx="10" fill="#fff9ec" stroke="#e9b054" stroke-width="1.4"/>
+<text x="1004" y="458" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">自选与告警</text>
+<text x="1004" y="480" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">规则 CRUD · 触发历史 · 浏览器内提醒</text>
+<rect x="988" y="508" width="516" height="66" rx="10" fill="#fff9ec" stroke="#e9b054" stroke-width="1.4"/>
+<text x="1004" y="534" font-size="14" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">数据健康</text>
+<text x="1004" y="556" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">新鲜度横幅 · 数据源状态 · 手动触发采集</text>
+<line x1="940" y1="808" x2="966" y2="400" stroke="#78a0d2" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="972" y="600" width="548" height="112" rx="14" fill="#fff4f4" stroke="#e68c8c" stroke-width="1.6"/>
+<text x="988" y="628" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">通知通道</text>
+<text x="988" y="654" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">第一版：浏览器内提醒 + 触发历史（已实现）</text>
+<text x="988" y="676" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">预留：系统托盘弹窗 / Server酱 / Bark / 邮件</text>
+<text x="988" y="696" font-size="11" fill="#68748b" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">扩展方式：register_channel() 加一个函数，规则逻辑不动</text>
+<line x1="1246" y1="600" x2="1246" y2="580" stroke="#e68c8c" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+<rect x="972" y="736" width="548" height="144" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="988" y="764" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">技术栈与设计取舍</text>
+<text x="988" y="792" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">后端  Python 3.11 · FastAPI · SQLAlchemy 2 · APScheduler · httpx</text>
+<text x="988" y="813" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">前端  原生 HTML + JS + 手写 SVG 图表（零构建、零外部 CDN）</text>
+<text x="988" y="834" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">存储  SQLite（WAL）单文件；明细 30 天，聚合永久</text>
+<text x="988" y="855" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">测试  82 个单元测试，全部离线可跑（fixture + 假适配器）</text>
+<text x="988" y="876" font-size="12" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">取舍  不用 React / 不上云 / 不引入迁移工具 / 不做自动交易</text>
+<rect x="40" y="900" width="1480" height="130" rx="14" fill="#ffffff" stroke="#c6d2e6" stroke-width="1.6"/>
+<text x="56" y="928" font-size="16" fill="#182e54" font-weight="bold" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">数据流</text>
+<text x="56" y="962" font-size="13" fill="#33415c" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">公开接口  →  适配器归一化  →  校验（判异标记）  →  幂等落库  →  聚合与指标  →  规则判定  →  浏览器提醒</text>
+<text x="56" y="990" font-size="12" fill="#68748b" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">历史曲线回补 ── 首次启动，7 天逐小时 ── 直接进入落库，使分位数立即可用</text>
+<text x="56" y="1016" font-size="12" fill="#be5a28" font-weight="normal" text-anchor="start" font-family="Microsoft YaHei, Segoe UI, PingFang SC, sans-serif">说明：本系统不含任何游戏客户端注入、内存读取、自动下单或抢购模块。数据版权归腾讯及游戏官方所有。</text>
+</svg>
